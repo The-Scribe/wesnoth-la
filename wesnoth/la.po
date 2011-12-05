@@ -3192,7 +3192,7 @@ msgstr "Addenda: "
 
 #: data/lua/wml/objectives.lua:71
 msgid "(%d turns left)"
-msgstr "(% vicium reliquorum)"
+msgstr "(%d vicium reliquorum)"
 
 #: data/lua/wml/objectives.lua:73
 msgid "(this turn left)"
