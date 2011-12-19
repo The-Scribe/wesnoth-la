@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-12-17 19:50+0100\n"
+"PO-Revision-Date: 2011-12-18 21:14+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -350,8 +350,8 @@ msgid ""
 "the coming of the orcs, the wreckers, the tree-killers. The years of their "
 "long childhoods were a golden age, and the last time of untroubled peace."
 msgstr ""
-"Nonnulla mutata utilia erant. Dryadalibus ex somnio excitatis civitas "
-"augescuerunt. At alii pessima, praesertim adventus orcum, occulcantes, "
+"Nonnulla mutata utilia erant. Dryadalibus ex somnio excitatis civitates "
+"augescuerunt. At alii pessima, praesertim adventus orcium, occulcantes, "
 "occisores arborum. Longa pueritia eorum aetas aurea fuit, postremaque pacis "
 "secura."
 
@@ -368,8 +368,8 @@ msgid ""
 "the humans in Wesnoth."
 msgstr ""
 "Dryadales numquam bellici fuisset, et non parati belli cum orcibus fatalis. "
-"Aequi in ipso anno quo Erlornas primos vastatores orcum pugnabat, "
-"adolescerunt. Secundo decem annis decursiones orcum valde augebantur.\n"
+"Aequi in ipso anno quo Erlornas primos vastatores orcium pugnabat, "
+"adolescerunt. Secundo decem annis decursiones orcium valde augebantur.\n"
 "\n"
 "Haec est historia Calentis et Landri, et Dryadalium humano in saeculo "
 "Vesnotei."
@@ -598,7 +598,7 @@ msgid ""
 "Then we must storm one of the orcs’ outposts to break the encirclement "
 "before more enemies arrive!"
 msgstr ""
-"Itaque unus stationum orcum expugnare oportet ut ante obsidionem frangamus "
+"Itaque unus stationum orcium expugnare oportet ut ante obsidionem frangamus "
 "quam plures hostium adeant!"
 
 #. [message]: id=Anduilas
@@ -609,7 +609,7 @@ msgstr "Certe, Calens — nos duc!"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:443
 msgid "Kill any of the orc leaders"
-msgstr "Ducem ullum orcum occidere"
+msgstr "Ducem ullum orcium occidere"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:448
@@ -743,8 +743,8 @@ msgid ""
 "of a great migration south. There was no choice but to make a detour through "
 "territory the elves would rather have avoided..."
 msgstr ""
-"Calens et manus vix obsidionem orcum fracti invenerunt iam ruri in via recta "
-"ad Calianem orces influere. Certamen domus Calentis modo parva pars "
+"Calens et manus vix obsidionem orcium fracti invenerunt iam ruri in via "
+"recta ad Calianem orces influere. Certamen domus Calentis modo parva pars "
 "migrationis magnae ad meridiem visum est. Illis nulla optio erat nisi iter "
 "per fines flectere, qui dryadales potius sperabant se vitaturos esse..."
 
@@ -1050,9 +1050,9 @@ msgid ""
 "reveal a grim sight..."
 msgstr ""
 "Calens dies noctesque cum turba sequentium ibant, iam adientes iam "
-"adiacentes Calianem, et ob nebulam densam et artem ligneam dryadalium, orcum "
-"manus venatores posse evitare. Demum fere attingentibus, Borea flato, nebula "
-"diffluens aspectum horriferum aperuit..."
+"adiacentes Calianem, et ob nebulam densam et artem ligneam dryadalium, "
+"orcium manus venatores posse evitare. Demum fere attingentibus, Borea flato, "
+"nebula diffluens aspectum horriferum aperuit..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:897
@@ -1123,6 +1123,7 @@ msgstr ""
 "deleamus ac <i>fortasse</i> vobis parcamus, aut saltem vobis mortem sine "
 "mora cruceve pollicemur."
 
+# oblitterus is ante-classical for oblitteratus
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:992
 msgid ""
@@ -1130,9 +1131,9 @@ msgid ""
 "citadel of the Ka’lian, for it has stood since before your kind crawled into "
 "sunlight and will endure long after you are forgotten!"
 msgstr ""
-"Quid ‘lapis’, inepte orcs ac foede? Non etiam te decet arcem Calianem "
+"Quid ‘lapis’, inepte orx ac foede? Non etiam te decet arcem Calianem "
 "nominare, nam prius stabat quam genus tuum in lucem repserunt et stabit "
-"vobis oblittatis!"
+"vobis oblitteris!"
 
 #. [message]: id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:1006
@@ -2700,7 +2701,7 @@ msgid ""
 "after the threat of the orcs has been met."
 msgstr ""
 "Nonne fuit satis cruoris? Credo nos res cum ilis pacturos esse postquam "
-"comminationem orcum perfecta est. "
+"comminationem orcium perfecta est. "
 
 #. [unit]: type=Water Serpent, id=Sealurr
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:604
@@ -3051,7 +3052,7 @@ msgid ""
 "This is Kalenz, leader of the elves. I have brought him here to ask for your "
 "advice and your aid in dealing with the orcs."
 msgstr ""
-"Calens est, dux dryadalium. Huc duxi consilium tuum et auxilium orcum "
+"Calens est, dux dryadalium. Huc duxi consilium tuum et auxilium orcium "
 "vincendi petitum."
 
 #. [part]
@@ -3119,7 +3120,7 @@ msgid ""
 "we won in Wesmere there was an Orc mumbling something about a dastone..."
 msgstr ""
 "Iam apparet. Lacertae de lepista quadam rogabant, quoque post victoriam "
-"Vesmerei orcs nescioquis de lepista mussabat..."
+"Vesmerei orx nescioquis de lepista mussabat..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:79
@@ -3229,7 +3230,7 @@ msgid ""
 "yearn to take their Great Chief’s place. You will be safe until a new leader "
 "arises strong enough to unite them again."
 msgstr ""
-"Bellipotentem orcum interficere opus est quasi orcibus necatus esset. Sic "
+"Bellipotentem orcium interficere opus est quasi orcibus necatus esset. Sic "
 "duellum civilem coronai capiendi movebunt, nam plures se supponere in regis "
 "locum cupiunt. Sospites eritis dum dux novus potens inter se coniungendi "
 "surgat."
@@ -3239,7 +3240,7 @@ msgstr ""
 msgid ""
 "Kill an orcish Great Chieftain? But he’s guarded better than a troll hole!"
 msgstr ""
-"Interficerene Bellipotentem orcum? Sed melius quam latibula troglodytarum "
+"Interficerene Bellipotentem orcium? Sed melius quam latibula troglodytarum "
 "custoditur!"
 
 #. [part]
@@ -3320,14 +3321,17 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:189
 msgid "There is no other option."
-msgstr ""
+msgstr "Nulla est alia optio."
 
+# peremamus is the original form of perimamus
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:194
 msgid ""
 "Very well, suppose Cleodil accepts the guardianship of your book. How will "
 "you then help us slay the orcish Great Chief?"
 msgstr ""
+"Recte, ut Cleodila custodiam libri tui accipiat, quomodo nos iuvabis ut "
+"Principem Orcium peremamus?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:199
@@ -3336,6 +3340,9 @@ msgid ""
 "orcish camp by stealth and kill the Great Chief. There is a potion that will "
 "make you invisible for some time."
 msgstr ""
+"Est modus, sed periculosissimus. Duo de copiis tuis occulto castra orcium "
+"Bellipotentem interfectum inire debent. Est venenum quod vos invisos spatium "
+"temporis facient. "
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:204
@@ -5137,7 +5144,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Horse Archer
 #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:13
 msgid "This is a stub!"
-msgstr ""
+msgstr "Hic est floccus!"
 
 #. [unit_type]: id=Elvish Horse Archer
 #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:18
@@ -5200,7 +5207,7 @@ msgstr "Para mortem, venefica dryadalis!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:157
 msgid "I will slay any who harms her without mercy."
-msgstr ""
+msgstr "Quemque ea noceat trucidabo."
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:161
@@ -5220,12 +5227,12 @@ msgstr "Cleodila! Heu! Te iuvabo."
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:10
 msgid "I am defeated. Now the orcs will destroy us!"
-msgstr ""
+msgstr "Victus sum. Nunc orces nos delebunt!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:44
 msgid "It is finished! I can finally rest!"
-msgstr ""
+msgstr "Factum est! Denique quiescam!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:50
@@ -5235,12 +5242,12 @@ msgstr "Vale Calens!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:56
 msgid "Nooo! We cannot continue without Landar!"
-msgstr ""
+msgstr "Eia! Non sine Landro pergere possumus!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:74
 msgid "I’m sorry I failed you, Kalenz... my beloved..."
-msgstr ""
+msgstr "Me paenitet tibi defuisse, Calens... deliciae..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:80
@@ -5256,22 +5263,22 @@ msgstr "Eo avos meos in Aulis Mortis adiunctum"
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:108
 msgid ""
 "Our cause is lost. With Uradredia gone, the North Elves will no longer fight!"
-msgstr ""
+msgstr "Causa labitur. Dryadales Borei Uradredia amissa iam non pugnabunt!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:122
 msgid "I cannot fight the orcs alone! It’s all over!"
-msgstr ""
+msgstr "Solus orces non contendere possum! Interii!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:141
 msgid "I grieve that I have failed you, my lord Kalenz..."
-msgstr ""
+msgstr "Doleo me tibi deesse, domine Calens..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:145
 msgid "Farewell $unit.name. Your loyal service won’t be forgotten."
-msgstr ""
+msgstr "Vale $unit.name. Studii fidelis non obliviscemur."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:156
