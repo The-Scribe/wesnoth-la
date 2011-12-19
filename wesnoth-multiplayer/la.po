@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2011-08-29 21:15+0100\n"
+"PO-Revision-Date: 2011-12-18 22:16+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -38,16 +38,18 @@ msgid ""
 "<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit "
 "score = %d  Gold = %d"
 msgstr ""
+"<span foreground='#%02x%02x%02x'>Manus %d</span>:  Puncta pro fructu = %d  "
+"Puncta pro actoribus = %d  Aurum = %d"
 
 #. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
 #: data/multiplayer/eras.cfg:126
 msgid "Grand total: <b>%d</b>"
-msgstr ""
+msgstr "Ultima summa: <b>%d</b>"
 
 #. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
 #: data/multiplayer/eras.cfg:136
 msgid "<span foreground='%s'>Side %d</span> has the advantage."
-msgstr ""
+msgstr "<span foreground='%s'>Manui %d</span> utilitas est."
 
 #. [era]: id=era_default
 #: data/multiplayer/eras.cfg:160
@@ -103,10 +105,9 @@ msgstr "Inmortus"
 
 #. [multiplayer]: id=multiplayer_Aethermaw
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:4
-#, fuzzy
 #| msgid "2p — The Freelands"
 msgid "2p — Aethermaw"
-msgstr "2l — Terrae Liberae"
+msgstr "2l — Fauces Aetheriae"
 
 #. [multiplayer]: id=multiplayer_Aethermaw
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:6
@@ -187,10 +188,9 @@ msgstr "Auster"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:277
-#, fuzzy
 #| msgid "Designed by Doc Paterson."
 msgid "Aethermaw — Created by Doc Paterson"
-msgstr "A Doc Paterson formata."
+msgstr "Fauces Aetheriae — A Doc Paterson formata."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:291
@@ -215,7 +215,7 @@ msgstr ""
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:304
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:321
 msgid "The Aethermaw growls."
-msgstr ""
+msgstr "Fauces Aetheriae fremunt"
 
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
@@ -357,9 +357,9 @@ msgstr ""
 "\n"
 "\n"
 "Non flamma fervet, nam colubri acrius\n"
-"Cor palpitantem personuit, silex\n"
+"Cor palpitantem personuit: silex\n"
 "Sic draculus usque ad medullas\n"
-"Et manet saecula forte factus.\n"
+"Perpetuatus adest novatus.\n"
 "\n"
 "\n"
 "Obscura hiems flat tam gelide acriter\n"
@@ -777,10 +777,9 @@ msgstr "Humani"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1386
-#, fuzzy
 #| msgid "Death of your team leaders"
 msgid "Death of your leader"
-msgstr "Mors ducum manuum"
+msgstr "Mors ducis"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1387
@@ -791,10 +790,9 @@ msgstr ""
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1390
-#, fuzzy
 #| msgid "Death of your team leaders"
 msgid "Death of both of your team’s leaders"
-msgstr "Mors ducum manuum"
+msgstr "Mors amborum ducum manus"
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1391
@@ -804,10 +802,9 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1412
-#, fuzzy
 #| msgid "Survive all enemy attacks"
 msgid "Survive and defeat all enemy waves"
-msgstr "Omnes impetus hostium superare"
+msgstr "Supeesse et omnes impetus hostium superare"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1432
@@ -1251,10 +1248,9 @@ msgstr "2l — Castellum Mille Aculeorum"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:39
-#, fuzzy
 #| msgid "Designed by Doc Paterson."
 msgid "A strange place. Designed by Doc Paterson"
-msgstr "A Doc Paterson formata."
+msgstr "Locus mirus. A Doc Paterson formata"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:85
