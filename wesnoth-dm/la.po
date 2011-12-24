@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2011-12-18 20:42+0100\n"
+"PO-Revision-Date: 2011-12-22 21:33+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -66,7 +66,7 @@ msgstr "Magnus Magus"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:37
 msgid "(Intermediate level, 19 scenarios.)"
-msgstr "(Ordo mediocris, IXX scaenarii.)"
+msgstr "(Ordo mediocris, IXX scaenaria.)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:37
