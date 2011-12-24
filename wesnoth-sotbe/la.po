@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2011-12-18 20:55+0100\n"
+"PO-Revision-Date: 2011-12-23 22:40+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -64,7 +64,7 @@ msgstr "Bellipotens"
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:22
 msgid "(Expert level, 18 scenarios.)"
-msgstr "(Ordo peritus, IIX scaenarii.)"
+msgstr "(Ordo peritus, IIXX scaenaria.)"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:22
@@ -2250,7 +2250,7 @@ msgstr "Cleber"
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:162
 msgid "Echarp"
-msgstr ""
+msgstr "Echarpus"
 
 #. [message]: speaker=Echarp
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:168
@@ -2392,7 +2392,7 @@ msgstr "Thelarion"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:95
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:81
 msgid "Darstang"
-msgstr ""
+msgstr "Darstangus"
 
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:146
@@ -2660,7 +2660,7 @@ msgstr "Telamirus"
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:224
 msgid "Angthur"
-msgstr ""
+msgstr "Angthurus"
 
 #. [message]: role=cannonfodder
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:245
@@ -2864,7 +2864,7 @@ msgstr "Arthaenus"
 #. [side]: type=Lieutenant, id=Hanak
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:103
 msgid "Hanak"
-msgstr ""
+msgstr "Hanacus"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:117
@@ -2961,7 +2961,7 @@ msgstr ""
 #. [side]: type=Bandit, id=Sagmar
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:94
 msgid "Sagmar"
-msgstr ""
+msgstr "Sagmarus"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:106
@@ -3043,7 +3043,7 @@ msgstr "Pelondras"
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:196
 msgid "Trithalsul"
-msgstr ""
+msgstr "Trithalsulus"
 
 #. [message]: speaker=Darstang
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:200
@@ -3125,7 +3125,7 @@ msgstr "Fredor"
 #. [side]: type=General, id=Georan
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:170
 msgid "Georan"
-msgstr ""
+msgstr "Georanus"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:186
@@ -3138,7 +3138,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:199
 msgid "Valan"
-msgstr ""
+msgstr "Valanus"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:234
@@ -3457,7 +3457,7 @@ msgstr "Ragvanius"
 #. [side]: type=Orcish Warlord, id=Kergai
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:142
 msgid "Kergai"
-msgstr ""
+msgstr "Cergae"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:161
@@ -3536,7 +3536,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:223
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:228
 msgid "Right!"
-msgstr "Certo!"
+msgstr "Recte!"
 
 #. [message]: speaker=Kapou'e
 #. "whupping" is not a typo for "whipping"; it ia a Southern
@@ -3618,7 +3618,7 @@ msgstr "Cnorgus"
 #. [side]: type=Orcish Grunt, id=Nofhug
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:127
 msgid "Nofhug"
-msgstr ""
+msgstr "Nofugus"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:140
