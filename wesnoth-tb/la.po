@@ -1450,7 +1450,7 @@ msgid ""
 "I must go back to earning my living. But we have our amulets, little "
 "brother. If you are beset again, I will come."
 msgstr ""
-"Redire opertet est. Sed amuletum nostrim habemus, Biarnule. Si quis te "
+"Redire opertet est. Sed amuletum nostrum habemus, Biarnule. Si quis te "
 "pugnaverit, veniam."
 
 #. [message]: speaker=Baran
