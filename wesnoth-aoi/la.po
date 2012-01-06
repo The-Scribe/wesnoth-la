@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-16 12:43+0100\n"
+"POT-Creation-Date: 2012-01-06 11:47+0100\n"
 "PO-Revision-Date: 2012-01-05 02:16+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
@@ -734,9 +734,15 @@ msgstr "Obtine iteris causa. Sunt pauca inventura in hac regione vacua."
 # fecerunt=they did so, in Latin idiom it is used instead or repeating the same verb.
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:308
+#, fuzzy
+#| msgid ""
+#| "Lord Erlornas never saw the blade that felled him. He died on the spot, "
+#| "with no a chance to issue last commands or farewells. Without him his "
+#| "wardens soon fell into confusion, and losing heart withdrew from the "
+#| "battle."
 msgid ""
 "Lord Erlornas never saw the blade that felled him. He died on the spot, with "
-"no a chance to issue last commands or farewells. Without him his wardens "
+"not a chance to issue last commands or farewells. Without him his wardens "
 "soon fell into confusion, and losing heart withdrew from the battle."
 msgstr ""
 "Magnas Erlornas numquam ferrum quod eum cecidit vidit. In ipso loco mortuus "
@@ -755,7 +761,9 @@ msgstr ""
 
 #. [message]: role=Adviser
 #: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:323
-msgid "We can’t carry on Lord, the men are to tired. We have to fall back."
+#, fuzzy
+#| msgid "We can’t carry on Lord, the men are to tired. We have to fall back."
+msgid "We can’t carry on Lord, the men are too tired. We have to fall back."
 msgstr "Pergere non possumus, sui nimis fessi sunt. Pedem referre opus est."
 
 #. [message]: id=Erlornas
@@ -973,8 +981,13 @@ msgstr "Vae! Non potis est!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:305
+#, fuzzy
+#| msgid ""
+#| "Soon after Erlornas died the elven party, lacking a leader and pressed "
+#| "from all sides, scattered and fled. Their retreat to Wesmere was arduous "
+#| "and long."
 msgid ""
-"Soon after Erlornas died the elven party, lacking a leader and pressed from "
+"Soon after Erlornas died, the elven party, lacking a leader and pressed from "
 "all sides, scattered and fled. Their retreat to Wesmere was arduous and long."
 msgstr ""
 "Manus dryadalium, parvo post Erlornatem interfectum, duce carens, undique "

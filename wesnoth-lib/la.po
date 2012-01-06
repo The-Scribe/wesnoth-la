@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-15 10:39+0100\n"
+"POT-Creation-Date: 2012-01-06 11:47+0100\n"
 "PO-Revision-Date: 2011-12-30 00:16+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
@@ -259,8 +259,7 @@ msgid "Desert Plants without Bones"
 msgstr "Gramina sine Ossis Locorum Desertorum"
 
 #. [terrain_type]: id=windmill
-#. [terrain_type]: id=windmill_village
-#: data/core/terrain.cfg:400 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:400
 msgid "Windmill"
 msgstr "Ventimolina"
 
@@ -674,6 +673,7 @@ msgstr "Inanis"
 #. [terrain_type]: id=snow_village
 #. [terrain_type]: id=human_village_ruin
 #. [terrain_type]: id=city_village
+#. [terrain_type]: id=windmill_village
 #. [terrain_type]: id=city_village_wno
 #. [terrain_type]: id=hill_village
 #. [terrain_type]: id=snow-hill_village
@@ -696,16 +696,16 @@ msgstr "Inanis"
 #: data/core/terrain.cfg:1184 data/core/terrain.cfg:1199
 #: data/core/terrain.cfg:1212 data/core/terrain.cfg:1227
 #: data/core/terrain.cfg:1240 data/core/terrain.cfg:1253
-#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1292
-#: data/core/terrain.cfg:1305 data/core/terrain.cfg:1318
-#: data/core/terrain.cfg:1331 data/core/terrain.cfg:1344
-#: data/core/terrain.cfg:1357 data/core/terrain.cfg:1370
-#: data/core/terrain.cfg:1385 data/core/terrain.cfg:1398
-#: data/core/terrain.cfg:1411 data/core/terrain.cfg:1424
-#: data/core/terrain.cfg:1437 data/core/terrain.cfg:1450
-#: data/core/terrain.cfg:1463 data/core/terrain.cfg:1478
-#: data/core/terrain.cfg:1491 data/core/terrain.cfg:1506
-#: data/core/terrain.cfg:2137
+#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:1292 data/core/terrain.cfg:1305
+#: data/core/terrain.cfg:1318 data/core/terrain.cfg:1331
+#: data/core/terrain.cfg:1344 data/core/terrain.cfg:1357
+#: data/core/terrain.cfg:1370 data/core/terrain.cfg:1385
+#: data/core/terrain.cfg:1398 data/core/terrain.cfg:1411
+#: data/core/terrain.cfg:1424 data/core/terrain.cfg:1437
+#: data/core/terrain.cfg:1450 data/core/terrain.cfg:1463
+#: data/core/terrain.cfg:1478 data/core/terrain.cfg:1491
+#: data/core/terrain.cfg:1506 data/core/terrain.cfg:2137
 msgid "Village"
 msgstr "Viculus"
 
@@ -1329,13 +1329,11 @@ msgstr "Difficultatem eligere:"
 
 #. [label]
 #: data/gui/default/window/chat_log.cfg:38
-#| msgid "View Chat Log"
 msgid "Chat Log"
 msgstr "Colloquium"
 
 #. [label]
 #: data/gui/default/window/chat_log.cfg:56
-#| msgid "Message:"
 msgid "Page:"
 msgstr "Pagina:"
 
@@ -2512,7 +2510,6 @@ msgid "Save password to preferences (plain text)"
 msgstr ""
 
 #: src/game_preferences_display.cpp:187
-#| msgid "Set path to wesnothd"
 msgid "Set Path to wesnothd"
 msgstr "Viam ad vesnotesd ponere"
 
@@ -2683,7 +2680,6 @@ msgid "Change the buffer size"
 msgstr "Magnitudinem musicae mutare"
 
 #: src/game_preferences_display.cpp:297 src/game_preferences_display.cpp:896
-#| msgid "Map size: "
 msgid "Buffer size: "
 msgstr "Magnitudo finium:"
 
@@ -2877,7 +2873,7 @@ msgid "Speed: "
 msgstr "Velocitas: "
 
 #: src/game_preferences_display.cpp:765 src/game_preferences_display.cpp:767
-msgid "Maximum Auto-Saves: "
+msgid "Maximum auto-saves: "
 msgstr ""
 
 #: src/game_preferences_display.cpp:765
@@ -2935,7 +2931,6 @@ msgid "Advanced section^Advanced"
 msgstr "Addititius"
 
 #: src/game_preferences_display.cpp:1292
-#| msgid "Choose theme"
 msgid "Choose Theme"
 msgstr "Themam Eligere"
 
@@ -3754,7 +3749,6 @@ msgid "Number of hills:"
 msgstr "Numerus collium:"
 
 #: src/mapgen_dialog.cpp:124
-#| msgid "Max Hill Size:"
 msgid "Max hill size:"
 msgstr "Maxima magnitudo collium:"
 
