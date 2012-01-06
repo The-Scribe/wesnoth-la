@@ -12,13 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-<<<<<<< Updated upstream
-"POT-Creation-Date: 2011-12-19 15:14+0100\n"
-"PO-Revision-Date: 2011-12-24 00:59+0100\n"
-=======
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
 "PO-Revision-Date: 2011-12-29 19:35+0100\n"
->>>>>>> Stashed changes
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
