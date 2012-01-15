@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-01-10 05:04+0100\n"
+"PO-Revision-Date: 2012-01-10 05:27+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -1467,10 +1467,10 @@ msgid ""
 "plague came... my family were starving, and we were forced to eat the flesh "
 "of those who had died."
 msgstr ""
-"Noli med timeire, Delfador. Sors mis est, seicut videor, pareire. Servos "
-"dominei crudelis fuei. Triboita magna postulavit ut diu duella agere... "
-"deinde pestis venid... familia magnopese esuriverunt et carnem mortuom "
-"edeire coacta est.  "
+"Noli med timeise, Delfador. Sors mis est, seicut videor, paseise. Servos "
+"dominei crudelis fuei. Triboita magna postulavit utei diu duella agere... "
+"deinde pestis venid... familia magnopese esusiverunt et carnem mortuom "
+"edeise coacta est.  "
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:342
@@ -1484,7 +1484,7 @@ msgid ""
 "difficult to attack, but there is a secret entrance in the valley beyond "
 "Sythan’s village."
 msgstr ""
-"Oissubusne occurristi? Arx ad septentriones hinc iacet. Difficile pugnatu "
+"Oissubusne occussisti? Arx ad septentriones hinc iacet. Difficile pugnatu "
 "est, sed aditos oiccultos valli praeter viculom Sythanei."
 
 #. [scenario]: id=09_Houses_of_the_Dead
@@ -1512,15 +1512,16 @@ msgid ""
 "Iliah-Malal says that he can open a portal to the world of the living. Those "
 "who follow him will walk the earth as they did in life."
 msgstr ""
-"Ilia Malalis dicid sed ostiom ad mundom veiventiom apereire posse. Quei sed "
-"secoiti esint in orbe terrom ut vitai ambulabund. "
+"Ilia Malalis dicid sed ostiom ad mundom veiventiom apeseise posse. Quei sed "
+"secoiti esint in orbe tessom utei vitai ambulabund. "
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:364
 msgid ""
 "Why are the dead so restless? This should be a place of rest and peace for "
 "you."
-msgstr "Cur mortui tam inquieti sunt? Debet locus requiei pacisque tibi esse."
+msgstr ""
+"Cur mortui tam inquieti sunt? Debet locus requietis pacisque tibi esse."
 
 #. [message]: speaker=Melinna
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:368
@@ -1528,7 +1529,7 @@ msgid ""
 "Once, I was happy here, but Iliah-Malal made me see this land as the eyes of "
 "the living see it... a place of rock and dust."
 msgstr ""
-"Laetom hic fuei olim sed Ilia Malalis med hanc terram sicut oculi veiventiom "
+"Laetom hic fuei olim sed Ilia Malalis med hanc tessam sicut oculi veiventiom "
 "veidere coegit... stlocom saxom pulvesisque."
 
 #. [scenario]: id=09_Houses_of_the_Dead
@@ -1543,7 +1544,7 @@ msgid ""
 "lead again."
 msgstr ""
 "Olim dominos magnos fuei... exercitus duxi! Ilia Malalis promisit med denuo "
-"ducturom esse.  "
+"ductusom esse.  "
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:378
@@ -1583,7 +1584,7 @@ msgstr ""
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:454
 msgid "A living man... so it is as Iliah-Malal says..."
-msgstr "Hominom viveintem... ita secundom verba Iliai Malalis..."
+msgstr "Hominom viveintem... ita est secundom verba Iliai Malalis..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:458
@@ -1598,8 +1599,8 @@ msgid ""
 "dead. He promises life to all those who follow him."
 msgstr ""
 "Rorthinom vocor. Diu mortuos som, proelioi magnoi... fere obleitus som... "
-"Ilia Malal vir veivens ut ted est quei inter mortuos ambulad. Pollicetur sed "
-"vitam omnibus eum sequentibus datusom esse."
+"Ilia Malal vir veivens utei ted est quei inter mortuos ambulad. Pollicetur "
+"sed vitam omnibus eum sequentibus datusom esse."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:466
@@ -1613,10 +1614,10 @@ msgid ""
 "guide you. Enter the houses of the dead as you pass, for others here may "
 "help you."
 msgstr ""
-"Sequere flumen aridum deinde viam ad signum septentrionalem. Te ducam. Intra "
-"domus mortuorum ut is, nam alii hic te adiuvent."
+"Sequese flumen asidom deinde viam ad signom septentrionalem. Ted ducam. "
+"Intra domum mortuom utei is, nam alioe hic ted adiuvent."
 
-# Outlandishly ancient language ensues. 
+# Outlandishly ancient language ensues.
 #. [message]: speaker=narrator
 #. The Tomb Guardian's dialogue should sound especially archaic
 #. and imperious. If your language has special forms for superior
@@ -1657,7 +1658,7 @@ msgid ""
 "come."
 msgstr ""
 "Veivensne? ...Video ita est. Anuma tis pulvesem, quei intactom ex quod "
-"Proiscom Saeculom iacoire, vertat. Et praedicatom est unom velut ted "
+"Proiscom Saeculom iaceise, vertat. Et praedicatom est unom velut ted "
 "ventoisom esse."
 
 #. [message]: speaker=Delfador
@@ -1676,9 +1677,9 @@ msgid ""
 "the Mirror of Evanescent Time that a living man would come here to be "
 "tested. AND I AM THE TEST!"
 msgstr ""
-"Praedicatom Proiscom Saeculom, abhinc multois annois, ultrad dinumerationem. "
-"Anusruca Magna, quoius tantommodo minimeissima umbra fragmentomque esom, "
-"Speculoi Temporis Fugacis praedixit hominom veiventem huc ventoisom ad "
+"Praedicatom Proiscom Saeculom, abhinc multois annois, ultrad dinumesationem. "
+"Anusruca Magna, quoius tantommodo minumeissima umbra fragmentomque esom, "
+"Speculoi Temposis Fugacis praedixit hominom veiventem huc ventoisom ad "
 "probandom esse. ET EGO ESOM PROBATIO!"
 
 #. [message]: speaker=Delfador
@@ -1698,7 +1699,7 @@ msgid ""
 "shoulder; the great must suffer its weight whether they will or no. "
 "Delfador, mage of Wesnoth, ARE YOU A SERVANT OF THE LIGHT?"
 msgstr ""
-"Parvo modo datur ne alas fortunai umeroi sentiad; necoisse est magno "
+"Parvo modo datur ne alas fortunai umesoi sentiad; necoisse est magno "
 "gravitatem pati utrom vuld an ne. Delfador, mage Vesnotei, MINISTERNE "
 "LOUCUOS ES?"
 
@@ -1800,8 +1801,8 @@ msgid ""
 "Iliah-Malal has created a portal to the land of the living! How I long to go "
 "through it and see the sun again..."
 msgstr ""
-"Ilia Malalis portam ad mundom veiventiom fefeced! Quantom desidero per eam "
-"eire et soilem rursus videire..."
+"Ilia Malalis portam ad mundom veiventiom fefeced! Quantom desideso per eam "
+"eise et soilem rursos videise..."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:163
