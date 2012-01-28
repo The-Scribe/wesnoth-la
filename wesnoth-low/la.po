@@ -3915,8 +3915,7 @@ msgid "The King is here! Hail Haldric II, King of Wesnoth!"
 msgstr "Rex adest! Ave Haldrice II, Rex Vesnotei!"
 
 #. [message]: speaker=unit
-#: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Allian
-ce.cfg:994
+#: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:994
 msgid "Tath will fall! We have failed!"
 msgstr "Tatus ruet! Defuimus!"
 
