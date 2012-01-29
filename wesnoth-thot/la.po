@@ -212,6 +212,11 @@ msgid ""
 "even greater than before, and began also reaching out for contact with their "
 "scattered kinfolk."
 msgstr ""
+"Post Societate Borea condita, primum Nani Gnalgae et populus humanus a longa "
+"oppressione orcium fractarum detenti erant in restitutione domuum; sed mox "
+"iterum prosperius provenerant. Nani a terra praeterita afflatui Gnalgae "
+"restituendae, ut grandior quam ante sit, effodere incipiunt, et admissas " 
+"gentes attingere."
 
 #. [part]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:125
@@ -221,6 +226,10 @@ msgid ""
 "year 550 after the founding of Wesnoth, the captain of the East Gate "
 "received a warning that a small band of rogue orcs had been sighted."
 msgstr ""
+"At nondum comminatio orcium hostilium, hominum ferorum, et inmortuum "
+"relictarum finita erat, nani sic aditus ad Gnalgam bene munierant; DL annos "
+"a Vesnote condita, centurioni Portae Orientalis renuntiatum est parvam "
+"catervam errantem orcium apparuisse."   
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:138
@@ -228,6 +237,8 @@ msgid ""
 "<i>Up axes!</i> We will be the Northern Alliance’s arm today, and kill or "
 "scatter these invaders."
 msgstr ""
+"<i>Tollite secures!</i> Nos hodie lacertus Societatis Boreae erimus, his "
+"hostibus interfectis fusisve." 
 
 #. [message]: speaker=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:142
@@ -235,6 +246,8 @@ msgid ""
 "We are the true orcs, not the weaklings who ally with human-worms and stinky-"
 "midgets like you. You will be meat for our wolves."
 msgstr ""
+"Non sumus invalidi socii vermium humanorum et putidorum pumilionum sicut te, "
+"sed orces veri. Caro lupis nostris eritis."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:153
@@ -242,11 +255,12 @@ msgid ""
 "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
 "And it bears a loremaster’s emblem."
 msgstr ""
+"Quid est? Dux devictus fibulam nano factam gerit, et insigne latoris fert. "
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:157
 msgid "The maker’s mark is strange to me. We had best consult the lord Hamel."
-msgstr ""
+msgstr "Insigne fabri ignotum mihi est. Dominum Hamelum consulare debemus"
 
 #. [scenario]: id=02_Reclaiming_the_Past
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:3
@@ -2089,7 +2103,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:4
 msgid "Dwarvish Annalist"
-msgstr "Chronographus Nanorum"
+msgstr "Auctor Nanorum"
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:21
@@ -2117,7 +2131,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
 msgid "Dwarvish Loremaster"
-msgstr ""
+msgstr "Lator Nanorum"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:23
