@@ -227,7 +227,7 @@ msgid ""
 "received a warning that a small band of rogue orcs had been sighted."
 msgstr ""
 "At nondum comminatio orcium hostilium, hominum ferorum, et inmortuum "
-"relictarum finita erat, nani sic aditus ad Gnalgam bene munierant; DL annos "
+"relictorum finita erat, nani sic aditus ad Gnalgam bene munierant; DL annos "
 "a Vesnote condita, centurioni Portae Orientalis renuntiatum est parvam "
 "catervam errantem orcium apparuisse."   
 
@@ -399,7 +399,7 @@ msgid ""
 msgstr ""
 "Vero. Meministi cum nos porticos occidentes refecisse parvam cavernam casam "
 "exemisse pro loco quo ipse Thursaganis olim ante fabricam habuit, quam solus "
-"ad inSeptentrionalibus studendum exiit"
+"ad in Septentrionalibus studendum exiit"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:152
@@ -415,11 +415,15 @@ msgid ""
 "that, with the book and the Hammer to hand, we could train and initiate "
 "runesmiths once more."
 msgstr ""
+"Quoddam librum, in loculo secreto clausoque, quem unus ex saxis vivis arte "
+"runarum pura fodisset, quem caverna casa irrupit. Perdifficile nobis erat "
+"litteras obscuratas eius exsolvere. Sed fortasse, libro et malleo praesente, "
+"rursus runifices erudire initiareque possimus."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:160
 msgid "And for what cause ha’ I heard naught o’ this?"
-msgstr ""
+msgstr "At quare ego de re nihil audiebam?"
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:164
@@ -429,6 +433,9 @@ msgid ""
 "of which holding shall have the training of the new runesmiths in its hands "
 "would be... delicate."
 msgstr ""
+"Mi domine, nuper invenimus. Etiam nunc librum exsolvimus. Ac est alia res: "
+"quia Malleus Calcarthae et liber huc est, quaestio sit... gravis, utrum hic "
+"an ille runifices novos erudiat."   
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:168
