@@ -443,6 +443,7 @@ msgid ""
 "We feared stirring up a controversy before the book was even properly "
 "understood."
 msgstr ""
+"Timebamus ut ante discordiam agiteremus quam librum etiam recte intellegeremus." 
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:172
@@ -451,6 +452,8 @@ msgid ""
 "been kept in the dark. But ye came to me with a request, and I think I ken "
 "what it will be."
 msgstr ""
+"Concedo ut id bene fecistis, non tamen mihi placet ut certior non factus "
+"sim. Sed rem petitum venistis, et scio quam res est, puto."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:176
@@ -458,21 +461,23 @@ msgid ""
 "That is obvious; the Order of Loremasters wants to send an expedition to Kal "
 "Kartha to find what has become of our kindred and the Hammer."
 msgstr ""
+"Res apparet; Ordo Latorum legionem Calcartham mittere vult ut quod genti "
+"nostra et Malleo accidit inveniat."
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:180
 msgid "Indeed, Lord Hamel, that is what we came to ask."
-msgstr ""
+msgstr "Vero, Domine Hamele, id est quod petimus."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:184
 msgid "And you spoke my guess, Aiglondur. Are you nae kin of mine?"
-msgstr ""
+msgstr "Ac dixisti quod fingebam, Aeglondure. Nonne tu gentis meae est?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:188
 msgid "Your great-nephew, my lord."
-msgstr ""
+msgstr "Filius fratris tui sum, mi domine."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:192
@@ -481,23 +486,27 @@ msgid ""
 "to use it well. I have decided. You and Angarthing will fare to Kal Kartha "
 "together, as soon as may be, with the best men of your guard."
 msgstr ""
+"Iuvenis et inexpertus es... sed ordinem habes, cui callide usus es. Constat. "
+"Ipse et Angartor una cum optimis custodibus tui Calcartham quantum pote "
+"ibitis."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:196
 msgid "Aye, my Lord Hamel."
-msgstr ""
+msgstr "Aio, mi domine Hamele."
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:200
 msgid "The Order thanks you, Lord Hamel"
-msgstr ""
+msgstr "Ordo tibi gratias agit, Domine Hamele."
 
+# hiemascit is a neologism for a non-existent inchoative
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:204
 msgid ""
 "We must make haste; winter approaches, and travel over the mountains will "
 "soon grow dangerous."
-msgstr ""
+msgstr "Festinare oportet; hiemascit, itaque montes transgredi difficile fit."
 
 #. [scenario]: id=03_Strange_Allies
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:3
@@ -507,7 +516,7 @@ msgstr "Socii Mirabiles"
 #. [side]: type=Orcish Warrior, id=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:44
 msgid "Marth-Tak"
-msgstr "Marthus Tacus"
+msgstr "Martacus"
 
 #. [side]: type=Outlaw, id=Gothras
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:87
@@ -519,6 +528,7 @@ msgstr "Gothras"
 msgid "Bandits"
 msgstr "Latrones"
 
+# metuere = metuerunt
 #. [part]
 #. "march" is *not* a typo for "marsh" here.
 #. In archaic English, "march" means "border".
@@ -531,11 +541,14 @@ msgid ""
 "the wilder march country, where raids by large bands of hostile orcs and men "
 "were all too common."
 msgstr ""
+"Angartor, Aeglondurus et manus Nanorum celeriter ad orientem per terras a "
+"Societate Borea habitas, quo populi ab immensibus incursionibus orcium "
+"hominumque hostilium communiter metuere." 
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:163
 msgid "Help Marth-Tak defeat Gothras"
-msgstr ""
+msgstr "Martacum iuvare ut Gothratem vinciat"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:171
@@ -560,7 +573,7 @@ msgstr "Mors Martaci"
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:192
 msgid "In the name of the Alliance, quit these lands now!"
-msgstr ""
+msgstr "Per Societatem, nunc exi hanc regionem!"
 
 #. [message]: speaker=Gothras
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:196
