@@ -581,13 +581,15 @@ msgid ""
 "We will fare where we will and take what we will, dog of an orc. To the Dark "
 "Gods with you and your precious ‘Alliance’."
 msgstr ""
+"Quocumque volumus, ibimus, rapientes quacumque volumus, canis orcis. Ite ad "
+"Deos Obscuros cum tua ‘Societate’ tua."   
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:200
 msgid ""
 "Now that is a sight still strange to my eyes — an orc fighting for the "
 "Northern Alliance."
-msgstr ""
+msgstr "Hoc est aliquid mirabile visu — orcs pro Societate Borea pugnans."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:204
@@ -595,43 +597,48 @@ msgid ""
 "I’m surprised myself that so many of the orcish tribes came over to the "
 "Alliance. Not so strange to see humans raiding us, worse luck."
 msgstr ""
+"Miror ipse quod tot de gentibus orcium cum Societate coniunxerunt. Non tamen "
+"miror quod homines nos peius irruent."   
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:208
 msgid "You, on the road! Are you of the Northern Alliance or not?"
-msgstr ""
+msgstr "Io, viator! Estisne Societatis Boreae an non?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:212
 msgid "We are."
-msgstr ""
+msgstr "Sumus"
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:216
 msgid "Well, then, honor the treaty as I have."
-msgstr ""
+msgstr "Foederi igitur parete sicut ego."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:220
 msgid "That is our duty."
-msgstr ""
+msgstr "Officium nonstrum est."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:224
 msgid "For the Alliance! Axes up!"
-msgstr ""
+msgstr "Pro Sociatete! Secures tollite!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:236
 msgid "We have failed our duty to the Alliance."
-msgstr ""
+msgstr "Officio Societatis defuimus."
 
+# cruentassent=cruentavissent
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:257
 msgid ""
 "My thanks, dwarves. These bandits might have hacked a bloody swathe through "
 "the Alliance’s tribes if we had not killed them here."
 msgstr ""
+"Nani, gratias vobis ago. Fortasse hi proscripti gentes Societatis "
+"cruentassent nisi eos hic interfecimus." 
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:262
@@ -639,11 +646,13 @@ msgid ""
 "My thanks to you, for proving there are orcs I can fight alongside rather "
 "than against. But we cannot linger here to celebrate; we are journeying east."
 msgstr ""
+"Gratiam habeo, quod probavisti orces esse pro quibus pugnare possum potius "
+"quam adversum. Sed non hic morari ad gaudendum debemus; ad orientem ibimus."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:267
 msgid "East, eh? You won’t find many friends in that direction. Travel safely."
-msgstr ""
+msgstr "Adne orientem? Minimos socios in illa regione invenies. Cave tibi."
 
 #. [scenario]: id=04_Troll_Bridge
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:3
@@ -667,11 +676,14 @@ msgid ""
 "very notion of fighting alongside orcs rather than against them, continued "
 "east to the easternmost edge of the Northern Alliance’s lands."
 msgstr ""
+"Aeglondurus suique, pars etiam dubitans de animo ipso pro orcibus pugnandi "
+"potius quam adversum, ad finem orientalem agrorum Societatis Boreae ire "
+"perrexerunt" 
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:99
 msgid "Hey! That troll was sitting on some treasure!"
-msgstr ""
+msgstr "Io! Ille troglodyta in thesaurum sedebat!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:122
@@ -693,7 +705,7 @@ msgstr "Erro. Hic est trogodyta. Telonio aes pendis. Er..."
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:157
 msgid ""
 "Dat not right either. Big words confuse Gronk. You pay now or we smash you."
-msgstr ""
+msgstr "Iterum erro. Magna verba Groncum impediunt. Iam aes pende ne pereas."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:161
