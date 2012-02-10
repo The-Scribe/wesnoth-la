@@ -1928,7 +1928,7 @@ msgid ""
 msgstr ""
 "Orces vicisti! Velis militias ordinis tironis: exempli gratia <i>Legio "
 "Austri</i>, <i>Adventus Orcium</i>, <i>Fabula Duorum Fratrum</i> aut "
-"<i>Heres Solii</i> nomine conari. <i>Legio Austri</i> praecipue ut militia "
+"<i>Heres Regni</i> nomine conari. <i>Legio Austri</i> praecipue ut militia "
 "tironi designatus est. Conradus, Lisaris et Delfadoris personae ab <i>Herede "
 "Solii</i> sunt. "
 
