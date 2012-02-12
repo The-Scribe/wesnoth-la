@@ -1927,10 +1927,10 @@ msgid ""
 "Delfador are characters from <i>Heir to the Throne</i>."
 msgstr ""
 "Orces vicisti! Velis militias ordinis tironis: exempli gratia <i>Legio "
-"Austri</i>, <i>Adventus Orcium</i>, <i>Fabula Duorum Fratrum</i> aut "
-"<i>Heres Regni</i> nomine conari. <i>Legio Austri</i> praecipue ut militia "
-"tironi designatus est. Conradus, Lisaris et Delfadoris personae ab <i>Herede "
-"Solii</i> sunt. "
+"Australis</i>, <i>Adventus Orcium</i>, <i>Fabula Duorum Fratrum</i> aut "
+"<i>Heres Regni</i> nomine conari. <i>Legio Australis</i> praecipue ut "
+"militia tironi designatus est. Conradus, Lisaris et Delfadoris personae ab "
+"<i>Herede Regni</i> sunt. "
 
 #. [unit_type]: id=Fighter, race=human
 #: data/campaigns/tutorial/units/Fighter.cfg:4
