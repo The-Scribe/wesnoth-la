@@ -603,7 +603,7 @@ msgstr ""
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:208
 msgid "You, on the road! Are you of the Northern Alliance or not?"
-msgstr "Io, viator! Estisne Societatis Boreae an non?"
+msgstr "Io, viatores! Estisne Societatis Boreae an non?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:212
@@ -713,6 +713,8 @@ msgid ""
 "The stonework of yon bridge is not good enough to be dwarf-made, but it is "
 "nowhere near crude enough to be troll-work."
 msgstr ""
+"Fabrica illius pontis peior nanorum est, sed haud peior fabrica cruda 
+"troglodytarum."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:165
@@ -720,6 +722,8 @@ msgid ""
 "Then it will be of the Alliance’s making, right enough, like this road that "
 "leads to it. It won’t do to have wild trolls squatting on it. Axes up!"
 msgstr ""
+"Sic ab Societate structus est, tamquam haec via quae ad hoc locum ducit. Non "
+"bene habet se, si troglodytae eum occupent. Tollite secures!" 
 
 #. [scenario]: id=05_Invaders
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:3
@@ -737,6 +741,8 @@ msgid ""
 "The Alliance’s road ended at the troll bridge. East of it lay only the "
 "wildlands."
 msgstr ""
+"Via Societatis in ponte Troglodytarum desiit, ultra quem modo avia "
+"iacebant"
 
 #. [side]: type=Orcish Warlord, id=Tan-Malgar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:54
@@ -756,17 +762,17 @@ msgstr "Tan Uthcarus"
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:275
 msgid "The villagers are attacking us!"
-msgstr ""
+msgstr "Vicani ultro nos petunt!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:285
 msgid "Aye, it’s still bandit country, right enough."
-msgstr ""
+msgstr "Aio, adhuc usque per loca prosciptorum imus."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:303
 msgid "No bandits in this village."
-msgstr ""
+msgstr "Est hic nemo proscriptorum."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:351
@@ -780,6 +786,8 @@ msgid ""
 "Stay alert, everyone, and keep together. This is bandit country — more than "
 "likely where Gothras and his gang came from."
 msgstr ""
+"Praecavete, nani, prope ab me manete. Haecc est terra proscriptorum — de "
+"quo certe Gothras grexque eius venerunt"
 
 #. [message]: role=Scout
 #. "muckle" = Scottish/archaic English meaning "great" or "large"
@@ -788,6 +796,8 @@ msgid ""
 "Nae sign o’ bandits I can see, captain — but there are three muckle hosts of "
 "orcs off to our east."
 msgstr ""
+"Sunt nulla vestigia proscriptorum visibilia — sed est in oriente bonus grex" 
+"orcium" 
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:385
@@ -795,6 +805,8 @@ msgid ""
 "What’s this? Large orcish war-bands so close to the Alliance’s border? That "
 "can only mean trouble."
 msgstr ""
+"Quid est? Magnaene catervae tam propiores fines Societatis? Tantum pericula 
+"indicat potest." 
 
 #. [message]: speaker=Tan-Malgar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:389
@@ -802,21 +814,23 @@ msgid ""
 "Well, boys, we were planning to invade the Northern Alliance anyway... These "
 "dwarves should make a tasty appetizer."
 msgstr ""
+"Iam, orces, saltem Societatem Boream invadere se intendebamus... Isti "
+"pumiliones pulmenta dulcia futuri sunt."
 
 #. [message]: speaker=Tan-Grolak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:393
 msgid "Yeah, boss. Anything to get away from those masked ones..."
-msgstr ""
+msgstr "Recte, domine. Si personatos evitare possimis..."
 
 #. [message]: speaker=Tan-Malgar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:397
 msgid "Be silent. We are orc warriors; we do not flee foes."
-msgstr ""
+msgstr "Sile. Sumus bellatores orces; inimicos non evitamus."
 
 #. [message]: speaker=Tan-Uthkar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:401
 msgid "But, given a choice, we fight the weaker foe first."
-msgstr ""
+msgstr "Sed, bene eligamus, si primo cum inimicis debilioribus pugnemus."
 
 #. [scenario]: id=06_High_Pass
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:3
@@ -838,13 +852,15 @@ msgstr "Monstra"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:127
 msgid "Move Aiglondur to the signpost at the east end of the pass"
-msgstr ""
+msgstr "Aeglondurum ad signum in fine orientale angusti movere"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:152
 msgid ""
 "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
 msgstr ""
+"Ecce, Angustum Altum. Apud chartis veteribus, dimidium itineris ad "
+"Calcartham fecimus." 
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:156
@@ -852,6 +868,8 @@ msgid ""
 "We must push through quickly; there is a vicious storm coming in behind us. "
 "Being caught in a blizzard on those heights would be no laughing matter."
 msgstr ""
+"Ocius transire necesse; est procella mordax ante nos. Nive in illis altis "
+"rapi haud ferendum erit."  
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:215
@@ -859,6 +877,8 @@ msgid ""
 "That hut near the top of the pass... Something is glowing inside it. We "
 "should investigate."
 msgstr ""
+"Intra illam casam pro summo angusto... Nescioquid calet. Scrutari nobis "
+"oportet." 
 
 #. [unit]: type=Arch Mage, id=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:243
@@ -915,7 +935,7 @@ msgstr ""
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:302
 msgid "This is no fit death for a mage of fire!"
-msgstr ""
+msgstr "Haec est vix mors digna magi ignis!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:307
@@ -939,7 +959,7 @@ msgstr ""
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:344
 msgid "We’re through the pass!"
-msgstr ""
+msgstr "Angustum transiimus!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:349
