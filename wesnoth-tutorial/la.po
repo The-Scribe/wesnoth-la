@@ -154,7 +154,7 @@ msgid ""
 "<big>You have selected Li’sar.</big>\n"
 "The places she can move to are highlighted."
 msgstr ""
-"<big>Lisarem eligisti.\n"
+"<big>Lisarem eligisti.</big>\n"
 "Loca illustrantur quo movere potest."
 
 #. [event]
