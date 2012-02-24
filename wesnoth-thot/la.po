@@ -713,7 +713,7 @@ msgid ""
 "The stonework of yon bridge is not good enough to be dwarf-made, but it is "
 "nowhere near crude enough to be troll-work."
 msgstr ""
-"Fabrica illius pontis peior nanorum est, sed haud peior fabrica cruda 
+"Fabrica illius pontis peior nanorum est, sed haud peior fabrica cruda "
 "troglodytarum."
 
 #. [message]: speaker=Aiglondur
@@ -805,7 +805,7 @@ msgid ""
 "What’s this? Large orcish war-bands so close to the Alliance’s border? That "
 "can only mean trouble."
 msgstr ""
-"Quid est? Magnaene catervae tam propiores fines Societatis? Tantum pericula 
+"Quid est? Magnaene catervae tam propiores fines Societatis? Tantum pericula "
 "indicat potest." 
 
 #. [message]: speaker=Tan-Malgar
