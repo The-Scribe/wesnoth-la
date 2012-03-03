@@ -797,7 +797,7 @@ msgid ""
 "orcs off to our east."
 msgstr ""
 "Sunt nulla vestigia proscriptorum visibilia — sed est in oriente bonus grex" 
-"orcium" 
+"orcium." 
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:385
@@ -891,11 +891,14 @@ msgid ""
 "Hail, I am Ratheln. If you’re traveling down the pass, please take me with "
 "you. I am near freezing and starving to death up here."
 msgstr ""
+"Ave, Rathelnus sum. Si per angustum itis, amabo secum me ducite. Haud multum "
+"afui quin hic moriar a fame ac gelu."
 
+# curioso = unforeseen pun!
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:262
 msgid "Pardon my curiosity, but what is a fire-mage doing freezing to death?"
-msgstr ""
+msgstr "Veniam mihi curioso des, sed quid magus agit ignis in monte niveo?"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:267
@@ -905,11 +908,14 @@ msgid ""
 "whenever I stir out of this shack. I’ve had nothing to eat but flash-roasted "
 "gryphon for the last three weeks."
 msgstr ""
+"Si non cerneres, est inopia gravis in isto loco misero et ligni et cibi. Et "
+"exsecrabiles grypes, ubi ex ista casa decedo, in me irruunt. Nihil nisi "
+"carnem subassatam grypum tamdiu edi!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:272
 msgid "Where were you bound when you got stuck here?"
-msgstr ""
+msgstr "Quo ibas cum hic detentus es?"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:277
