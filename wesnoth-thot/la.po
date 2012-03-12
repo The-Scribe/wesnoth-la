@@ -1136,11 +1136,13 @@ msgid ""
 "Perrin, I owe these dwarves a debt; I think it is my duty to aid them in "
 "their journey. I’ll return with your apprentices as soon as I may."
 msgstr ""
+"Perrine, nanis debitum debeo; offio mihi, puto, eos in itinere adiuvare "
+"esse. Cum dispiculis tuis quam celerrime redibo." 
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:232
 msgid "As you will. Go safely and return swiftly."
-msgstr ""
+msgstr "Fiat. Ite tute et celeriter redi."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:239
@@ -1148,12 +1150,14 @@ msgid ""
 "I would travel east with you if I could, but the school will need me all the "
 "more with Master Perrin gone."
 msgstr ""
+"Si possim ego ad orientem secum eam, sed iam Domino Perrino amisso schola "
+"magis mei egebit."  
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:247
 msgid ""
 "I think we will regret Perrin’s passing. There is much he might have told us."
-msgstr ""
+msgstr "Perrinum nos perdere paenitet. Tam multos nos doceret."
 
 #. [scenario]: id=08_Fear
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:3
@@ -1221,7 +1225,7 @@ msgstr "Incolas invenire"
 msgid ""
 "The presence of Master Perrin’s journeymen gives you the ability to recruit "
 "mages."
-msgstr ""
+msgstr "Adspectus viatorum Domini Perrini magos adlegendi facultatem dant."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:171
@@ -1229,11 +1233,13 @@ msgid ""
 "We should be on the outskirts of the settled country around Kal Kartha, but "
 "something doesn’t feel right here."
 msgstr ""
+"Ambitum terrae habitae circa Calcartham inesse debemus, sed nescioquid hic "
+"malum videtur."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:175
 msgid "It’s too quiet... and I think I smell traces of smoke on the wind."
-msgstr ""
+msgstr "Tam tacitum est... et puto me vestigia fumi in vento odorari."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:179
@@ -1241,12 +1247,14 @@ msgid ""
 "I do not sense hostile magic in the vicinity. But there has been fire near "
 "here recently, and not a clean one."
 msgstr ""
+"His partibus magiam hostilem non sentio. Sed fuit ignis nuper prope has, "
+"neque pura fuit." 
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:183
 msgid ""
 "Look sharp for the inhabitants here. They might have something to tell us."
-msgstr ""
+msgstr "Odoramini incolas. Fortasse de re aliquid dicant."
 
 #. [unit]: type=Peasant, id=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:208
@@ -1256,27 +1264,27 @@ msgstr "Ollinus"
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:216
 msgid "Don’t kill me, masters! Please don’t kill me!"
-msgstr ""
+msgstr "Nolite me occidere, domini! Amabo nolite occidere!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:220
 msgid "You’re in no danger from us. What lies to the east of here?"
-msgstr ""
+msgstr "Vita tua non est anceps. Quid in oriente iacit?"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:224
 msgid "You wear no mask. You... you’re not with them?"
-msgstr ""
+msgstr "Nullam personam geritis. Num factionis istae estis?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:228
 msgid "What are you talking about?"
-msgstr ""
+msgstr "Quid dicas?"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:232
 msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
-msgstr ""
+msgstr "Nanos personatos. Interficientes, ardentes, abducentes. Ecce..."
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:253
