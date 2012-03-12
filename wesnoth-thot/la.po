@@ -923,6 +923,8 @@ msgid ""
 "There is a school of mages near the east end of the pass. They’ve an opening "
 "for an instructor, and they’re expecting me."
 msgstr ""
+"Est schola magorum ultra angustum orientalem. Magistrum quaerentes me "
+"exspectant."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:282
@@ -931,12 +933,17 @@ msgid ""
 "to the east; we’ve had few reports on it since before the orcs took Knalga. "
 "Those mages should know at least rumors."
 msgstr ""
+"Nobiscum eum deducamus, Aeglondure. Praeter orientem paulum terrae scimus; "
+"ex quo Gnalga ab orcibus capta est pauci nobis fando de urbe attulerunt. Hi "
+"magi saltem famas habere debent."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:287
 msgid ""
 "Aye. And I’d not leave anyone who had done my kin no harm stranded to starve."
 msgstr ""
+"Aio. Neque ullum linquam fame morti proiectum qui numquam genti meae "
+"laeserat." 
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:302
@@ -949,18 +956,21 @@ msgid ""
 "The snow has redoubled its fury, as if his presence had been holding it "
 "back. I do not see a way forward for us."
 msgstr ""
+"Furor nivis duplicata est, tamquam adspectus retinuisset. Pergere scire non "
+"possum."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:320
 msgid ""
 "It has begun to snow. Move, everyone! To be trapped here would be death."
-msgstr ""
+msgstr "Ningit. Ite omnes! Hic circumventi esse exitium sit."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:329
 msgid ""
 "We’re snowed in. Our mission has failed, even if we live until the spring."
 msgstr ""
+"Nive circumiti sumus. Etiam si usque ad verem vivamus, proposito defuimus."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:344
@@ -974,12 +984,16 @@ msgid ""
 "the bandit villages, enough to make them push west into Alliance territory. "
 "Don’t you wonder what it was?"
 msgstr ""
+"Forte fortuna secunda non sit. Nescioquid illos orces quibus in viculos "
+"proscriptorum pugnavimus, terruit satis, ut ad agrum Societatis se "
+"moverunt. Nonne mirificum est?"  
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:354
 msgid ""
 "Aye. But I’ve a grim feeling we might be going to discover that in person."
 msgstr ""
+"Aio. Sed sensum severum habeo ne rationem singillatim inveniamus."
 
 #. [scenario]: id=07_Mages_and_Drakes
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:3
@@ -1022,6 +1036,8 @@ msgid ""
 "Master Perrin! A mage comes down from the High Pass, with a company of "
 "dwarves. They are well-armed, but not in battle array."
 msgstr ""
+"Domine Perrine! Magus cum legione nanorum huc ab Angustum Altum devenit, "
+"bene sunt armati, at non in acie." 
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:149
@@ -1029,6 +1045,8 @@ msgid ""
 "That will be Ratheln, I expect. Hail! You on the road! Who comes bearing "
 "arms into our valley?"
 msgstr ""
+"Rathelnus est, opinor. Ave! Qui in via est! Qui armigeri in vallem nostrum "
+"veniunt?"
 
 #. [message]: speaker=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:153
@@ -1036,6 +1054,7 @@ msgid ""
 "‘Our’ valley, says Master Perrin. The arrogance of these mages is "
 "intolerable!"
 msgstr ""
+"Dicit vallem ‘sibi’ esse. Quam intolerabilis est superbia istorum magorum!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:157
@@ -1043,6 +1062,8 @@ msgid ""
 "A delegation of the Northern Alliance, traveling east. I believe we’ve found "
 "a friend of yours in the High Pass."
 msgstr ""
+"Legatio Societatis ad orientem eunt. Credo nos aequalem tui in Angusto Alto "
+"invenisse."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:161
@@ -1051,11 +1072,14 @@ msgid ""
 "of drakes in the cliffs near the valley’s end. They were here before us, and "
 "have become more hostile to travelers of late."
 msgstr ""
+"Bene facis, sed si ad orientem ire animo intenditis, cavete nidum draculorum "
+"in rupibus finem vallis tangentibus. Nos praevenerunt, nuper magis "
+"viatoribus infesti facti sunt."
 
 #. [message]: speaker=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:165
 msgid "The axe-bearers must not be let near our nestlings. Attack!"
-msgstr ""
+msgstr "Bipenniferi pullos aggredi prohibendi sunt. Pugnate!"
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:181
@@ -1065,11 +1089,14 @@ msgid ""
 "journeymen... and I sense something being born to the east that I do not "
 "like the feel of."
 msgstr ""
+"Gratias vobis pro auxilio agimus. Et saltem unum de discipulis maioribus "
+"vobiscum secutum mittere velim. Sibi tempus est viatores esse... et sentio "
+"ibi aliquid nascentem a quo abhorreo."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:186
 msgid "What sort of thing?"
-msgstr ""
+msgstr "Quale id est"
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:191
@@ -1077,6 +1104,8 @@ msgid ""
 "There is some great magic brewing. Something... evil. I feel its traces in "
 "the currents of the earth and air."
 msgstr ""
+"Aliquis magiam ebullit. Aliquid malum. Sentio vestigia in canalibus "
+"terrestribus aetheriisque." 
 
 #. [unit]: type=Mage, id=Lorinne
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:199
@@ -1093,13 +1122,13 @@ msgstr "Darcas"
 msgid ""
 "I would travel east with you if I could, but I have duties I must take up "
 "here."
-msgstr ""
+msgstr "Si possim ego ad orientem secum eam, sed hic munera efficere opus est."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:219
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:243
 msgid "You have your duty, as we have ours. Fare well."
-msgstr ""
+msgstr "Tibi sunt munera quantum nobis. Vale."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:227
