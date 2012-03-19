@@ -1457,7 +1457,7 @@ msgstr "Quis silvam nostram vexat?"
 msgid ""
 "A delegation of the Northern Alliance, seeking the road through to Kal "
 "Kartha."
-msgstr ""
+msgstr "Legatio Societatis Boreae faciat ut Calcartham iter inveniat."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:274
@@ -1466,16 +1466,19 @@ msgid ""
 "ones began to trouble our eastern margins. No axe-bearers shall come near "
 "our trees. Return whence you came!"
 msgstr ""
+"Paucos advenas vias silvestres nostras inire sinimus, neque quid de nanis ex "
+"quo personati margines eoas turbare aggressi sunt, neque qui de bipenniferis "
+"arbores nostros aggredientur. Redite unde venistis!"  
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:279
 msgid "No. We have our duty. We must pass."
-msgstr ""
+msgstr "Non redibimus. Transire necesse est."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:284
 msgid "You shall not pass here."
-msgstr ""
+msgstr "Hic non transibitis."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:289
@@ -1483,24 +1486,26 @@ msgid ""
 "Winter comes on our heels, and your forest straddles the only gap in these "
 "mountains. You leave us no choice but to fight you."
 msgstr ""
+"Hiems calcem persequitur, atque silva tua unicum saltum horum montum "
+"attingit. Pugnandum est."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:294
 msgid ""
 "So be it, then. Yours will not be the first bones to nourish the earth of "
 "our forest."
-msgstr ""
+msgstr "Esto. Ossa tua terram silvae nostrae non primum alent."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:322
 msgid ""
 "Rally on me, everyone. We have better things to do than brawl with elves."
-msgstr ""
+msgstr "Omnes huc convenite. Gravior res est quam cum dryadalibus rixari."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:356
 msgid "Kal Kartha should be only another day’s march east of here."
-msgstr ""
+msgstr "Forte Calcartha die eundi in orientem distat."
 
 #. [scenario]: id=10_The_Siege_of_Kal_Kartha
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:3
@@ -1532,19 +1537,19 @@ msgstr "Tan Vagranus"
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:227
 msgid "Death of West Gate commander"
-msgstr ""
+msgstr "Mors legati Portae Occidentis"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:246
 msgid "Behold! The West Gate of Kal Kartha!"
-msgstr ""
+msgstr "Ecce! Portam Occidentis Calcarthae!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:250
 msgid ""
 "And under siege, I see. There is a mighty host of orcs between us and that "
 "gate."
-msgstr ""
+msgstr "Atque obsessam, puto. Est magnus grex orcum inter nos portamque."
 
 #. [message]: speaker=Tan-Morgh
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:254
@@ -1552,21 +1557,22 @@ msgid ""
 "Ahhh... more stinky-midgets, come to get killed just like these cowards in "
 "their den."
 msgstr ""
+"Ahhh... plures pumilionum foedorum obitum venerunt sicut hi territi in latibulo."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:258
 msgid "Let us bring our kin that orc’s head as a guesting-gift."
-msgstr ""
+msgstr "Feramus gentibus nostris caput illius orcis donum."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:272
 msgid "Kal Kartha shall not fall!"
-msgstr ""
+msgstr "Calcartha non deerit!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:284
 msgid "Kal Kartha is taken. Our mission has failed."
-msgstr ""
+msgstr "Calcartha capta est. Munere nos defuimus."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:298
@@ -1575,6 +1581,9 @@ msgid ""
 "guests, and I will show you to the best quarters we have myself. Our lord, "
 "the runemaster Karrag, will want to have speech with you on the morrow."
 msgstr ""
+"Bene facitis, et gratias vobis ago; male oppressi sumus. Vos eritis hospites "
+"honorati, et ipse vobis optima spatia ostendam. Dominus noster, Carragus "
+"runipotens, vos alloqui cras velit."   
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:303
@@ -1582,6 +1591,8 @@ msgid ""
 "A runemaster? There had been none such since Thursagan’s day. And for one to "
 "lead a holding was unheard-of; they tended towards the solitary life."
 msgstr ""
+"Runipotens? Talis non fuerat post Thursaganem vivum, atque stationem tenere "
+"erat inauditum: vitam soli agere solebant."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:308
@@ -1596,7 +1607,7 @@ msgstr ""
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:313
 msgid "He has grasped the Hammer of Thursagan, then?"
-msgstr ""
+msgstr "Malleum igitur Thursaganis carpsit?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:318
@@ -1654,6 +1665,8 @@ msgid ""
 "Psst, Angarthing... Karrag and those dwarves on the dais, they’re all "
 "<i>masked</i>."
 msgstr ""
+"Attat, Angartor... Carragus hique nani in suggestu, <i>personati</i> sunt "
+"omnes."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:189
