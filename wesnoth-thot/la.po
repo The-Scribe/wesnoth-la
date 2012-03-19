@@ -1096,7 +1096,7 @@ msgstr ""
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:186
 msgid "What sort of thing?"
-msgstr "Quale id est"
+msgstr "Quale id est?"
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:191
@@ -1274,7 +1274,7 @@ msgstr "Vita tua non est anceps. Quid in oriente iacit?"
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:224
 msgid "You wear no mask. You... you’re not with them?"
-msgstr "Nullam personam geritis. Num factionis istae estis?"
+msgstr "Nullam personam geritis... Num factionis istae estis?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:228
@@ -1285,18 +1285,21 @@ msgstr "Quid dicas?"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:232
 msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
 msgstr "Nanos personatos. Interficientes, ardentes, abducentes. Ecce..."
-
+ 
+# connanus = fellowdwarf
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:253
 msgid ""
 "Fellow dwarves, hail! We’re looking for a human refugee, one named Ollin. "
 "Have you seen him? Our master demands his life."
 msgstr ""
+"Connani, avete! Quemdam profugum humanum petemus, nomine Ollinus. vosne "
+"conspexisti? Dominus noster vitam poscat."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:257
 msgid "He is here. How has he wronged your master, that you seek his death?"
-msgstr ""
+msgstr "Nobiscum it. Quomodo dominum tuum offendebat, ut vitam poscetis?"
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:261
@@ -1304,13 +1307,15 @@ msgid ""
 "Does it matter? He is only a dirtgrubbing human, not fit to polish the boots "
 "of the true people."
 msgstr ""
+"Quid refert? Modo homo est lutulentus, indignus caligas poliendo virorum "
+"verorum."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:265
 msgid ""
 "What is your name, masked one? Will you stand behind your deed? I am a "
 "witness."
-msgstr ""
+msgstr "Quid nominaris, personate? Factum tueberis? Testis sum."
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:269
@@ -1318,6 +1323,7 @@ msgid ""
 "A witness? My name is... my name is not important. My deed will speak its "
 "own truth."
 msgstr ""
+"Testisne? Nominor... nomen flocci non facio. Factum meum solum verruncabit."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:273
@@ -1325,6 +1331,8 @@ msgid ""
 "You speak without honor. Mine is the power of our ancient Law; speak your "
 "name and give up your murder, or the Law will cast you forth. I am a witness!"
 msgstr ""
+"Sine honore dicis. Mihi est veteris imperium Legis nostrae; dice nomen atque "
+"linque cladem, ne lumen linquas, Lex enim te detestabitur. Testis sum!" 
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:277
@@ -1332,16 +1340,18 @@ msgid ""
 "If you were a witness of the true people, you would not let a dirtgrubber "
 "hide behind your robes. I deny you!"
 msgstr ""
+"Si testis verorum esset, iste veteres lutulentum se ante trabeam tuam "
+"velare. Te veto!" 
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:282
 msgid "The Law speaks: you are cast out. You are un-dwarf. I AM A WITNESS!"
-msgstr ""
+msgstr "Lex dicit: es detestatus. Non nanus, es inanis. TESTIS SUM!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:286
 msgid "Up axes!"
-msgstr ""
+msgstr "Tollite secures!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:293
@@ -1351,17 +1361,17 @@ msgstr "Nanum Personatum vincere"
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:322
 msgid "Take that for my family’s memory, you murderer!"
-msgstr ""
+msgstr "Hoc cape pro memoria familiae, spurce!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:330
 msgid "They are defeated"
-msgstr ""
+msgstr "Victi sunt"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:334
 msgid "You have acted in honor. I am a witness."
-msgstr ""
+msgstr "Cum honore egis. Testis sum."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:338
@@ -1369,6 +1379,8 @@ msgid ""
 "I have never seen the formal banishment before. One reads of it in the old "
 "tales, of course, but to hear it with one’s own ears? It was... unsettling."
 msgstr ""
+"Numquam exsilium sollemne tuitus sum. Sane de quo in fabula antiqua legebam, "
+"sed auribus propriis capere? Erat... terribile."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:342
@@ -1377,6 +1389,8 @@ msgid ""
 "But look at what these filth were carrying if you have any doubt it was "
 "merited."
 msgstr ""
+"Perraro facimus, sed avi mei memoria factum est. At ecce eis latum caenum, "
+"si in dubio es quin meritum esset."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:346
@@ -1384,13 +1398,15 @@ msgid ""
 "Whips. Shackles. No, Angarthing, I would not doubt you, even if it were my "
 "place to doubt a loremaster."
 msgstr ""
+"Flagella. Vincla. Non, Angartor, in dubio est, etiamsi mihi locus detur ut "
+"de voce Latoris dubitem." 
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:350
 msgid ""
 "They were seeking captives. To what purpose, I cannot say. But I doubt it "
 "was any good one."
-msgstr ""
+msgstr "Captivos aucupabantur. Nescio qua re, sed puto eam male esse."
 
 #. [scenario]: id=09_Forbidden_Forest
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:3
@@ -1424,7 +1440,7 @@ msgstr "Burumardir Athelorand"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:213
 msgid "Move both Aiglondur and Angarthing to the eastern signpost"
-msgstr ""
+msgstr "Et Aeglondurum et Angartorem ad signum orientalem movere"
 
 #. [unit]: type=Elvish Scout, id=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:255
@@ -1434,7 +1450,7 @@ msgstr "Elurinus"
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:264
 msgid "Who disturbs our forest?"
-msgstr ""
+msgstr "Quis silvam nostram vexat?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:269
