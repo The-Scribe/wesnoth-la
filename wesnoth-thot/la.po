@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.3.12+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2012-01-05 23:37+0100\n"
+"PO-Revision-Date: 2012-03-23 21:26+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -215,7 +215,7 @@ msgstr ""
 "Post Societate Borea condita, primum Nani Gnalgae et populus humanus a longa "
 "oppressione orcium fractarum detenti erant in restitutione domuum; sed mox "
 "iterum prosperius provenerant. Nani a terra praeterita afflatui Gnalgae "
-"restituendae, ut grandior quam ante sit, effodere incipiunt, et admissas " 
+"restituendae, ut grandior quam ante sit, effodere incipiunt, et admissas "
 "gentes attingere."
 
 #. [part]
@@ -229,7 +229,7 @@ msgstr ""
 "At nondum comminatio orcium hostilium, hominum ferorum, et inmortuum "
 "relictorum finita erat, nani sic aditus ad Gnalgam bene munierant; DL annos "
 "a Vesnote condita, centurioni Portae Orientalis renuntiatum est parvam "
-"catervam errantem orcium apparuisse."   
+"catervam errantem orcium apparuisse."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:138
@@ -238,7 +238,7 @@ msgid ""
 "scatter these invaders."
 msgstr ""
 "<i>Tollite secures!</i> Nos hodie lacertus Societatis Boreae erimus, his "
-"hostibus interfectis fusisve." 
+"hostibus interfectis fusisve."
 
 #. [message]: speaker=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:142
@@ -249,18 +249,20 @@ msgstr ""
 "Non sumus invalidi socii vermium humanorum et putidorum pumilionum sicut te, "
 "sed orces veri. Caro lupis nostris eritis."
 
+# loremaster = doctunus (doctum + IE *-nos (lord of)
+# lore=doctum
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:153
 msgid ""
 "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
 "And it bears a loremaster’s emblem."
 msgstr ""
-"Quid est? Dux devictus fibulam nano factam gerit, et insigne latoris fert. "
+"Quid est? Dux devictus fibulam nano factam gerit, et insigne doctuni fert. "
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:157
 msgid "The maker’s mark is strange to me. We had best consult the lord Hamel."
-msgstr "Insigne fabri ignotum mihi est. Dominum Hamelum consulare debemus"
+msgstr "Insigne fabri ignotum mihi est. Dominum Hamelum consulare debemus."
 
 #. [scenario]: id=02_Reclaiming_the_Past
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:3
@@ -284,7 +286,7 @@ msgid ""
 msgstr ""
 "Aeglondurus, post victoriam de orcibus, ad auditorium Hameli, domini Gnalgae "
 "et Comitis Societatis Boreae, arcessitus est. Stabat pro suggestu alienus "
-"amictu Ordinis Latorum velatus..." 
+"amictu Ordinis Doctunorum velatus..."
 
 #. [unit]: type=Dwarvish Witness, id=Angarthing_dummy
 #. [unit]: type=Dwarvish Witness, id=Angarthing
@@ -301,8 +303,9 @@ msgid ""
 "mark on it."
 msgstr ""
 "Aeglondure, quod inveni me movet, ut parvum esse videatur. Tibi ostendo "
-"Angartorem, discipulum latorum, qui insigne agnovit." 
+"Angartorem, discipulum doctunorum, qui insigne agnovit."
 
+# congens be a neologism
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:112
 msgid ""
@@ -312,10 +315,10 @@ msgid ""
 "it; no orc should know even that loremasters exist, let alone come near "
 "enough one to get this."
 msgstr ""
-"Insigne in fibula gentem nostrum Calcarthae collium orientium attinet, de "
-"quo nihil nuntiatum est ex quo tempore ante oppressionem orcesque Gnalgae a "
+"Insigne in fibula congentem Calcarthae collium orientium attinet, de quo "
+"nihil nuntiatum est ex quo tempore ante oppressionem orcesque Gnalgae a "
 "Tallino fractam. Nobis curae est si orces raptum venerunt; ac nullo orce "
-"scire latores esse opus est, ne vero ullo modo quidem hanc nancisci posse."  
+"scire doctunos esse opus est, ne vero ullo modo quidem hanc nancisci posse."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:116
@@ -329,8 +332,8 @@ msgid ""
 "keepers since a hero of their line recovered it from the Caverns of Flame, "
 "centuries ago."
 msgstr ""
-"Et Malleus Thursaganis mihi curae est. Gens nostra Calcarthae custodes eius "
-"erant ex quo iamdudum heros generis eius id e Cavernis Flammarum recepit."
+"Et Malleus Thursaganis mihi curae est. Congens nostra Calcarthae custodes "
+"eius erant ex quo iamdudum heros generis id e Cavernis Flammarum recepit."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:124
@@ -345,7 +348,7 @@ msgid ""
 "wield it, and our oldest histories hint that this very hammer was used to "
 "forge the dwarves themselves in the heart of the earth."
 msgstr ""
-"Vero. Intrumentum ipsum quo runifices magnissimi Sceptrum Ignis fecit. Sed "
+"Vero. Instrumentum ipsum quo runifices magnissimi Sceptrum Ignis fecit. Sed "
 "est valde antiquior Thursagane; modo ultimus gerulus fuit, et antiquissimi "
 "annales indicant hunc malleum ipsum esse instrumentum quo nani ipsi in corde "
 "terrae confecti sunt."
@@ -356,7 +359,7 @@ msgid ""
 "But if the dwarves of Kal Kartha have held it all this time, why has none "
 "wielded it since Thursagan?"
 msgstr ""
-"Si nani Calcarthae tamdiu tenuerunt, cur nemo eum post Thursaganem mortuum " 
+"Si nani Calcarthae tamdiu tenuerunt, cur nemo eum post Thursaganem mortuum "
 "gessit?"
 
 #. [message]: speaker=Hamel
@@ -372,7 +375,7 @@ msgstr ""
 "Quod cum Thursaganis Malleo ad manum adustus sit, omnes runipotentes "
 "arcaniferique vivi — omnes qui se ad artem et ad potestatem Mallei "
 "iuraverant — sine livore ceciderunt, omnes simul deiecti. Arcana artis secum "
-"mortua sunt. Hoc est cur nulli runifices apud nos adsunt, graviter dolemus."  
+"mortua sunt. Hoc est cur nulli runifices apud nos adsunt, graviter dolemus."
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:140
@@ -381,9 +384,9 @@ msgid ""
 "of Loremasters has given me leave to reveal that the craft secrets were not, "
 "actually, quite as lost as we believed."
 msgstr ""
-"Hoc est quod dicitur, domine mi Hamele, et verum est, nisi hoc; Ordo Latorum "
-"me permittit ut aperiam arcana artis non omnino tam amissa quam crederamus "
-"fuisse."
+"Hoc est quod dicitur, domine mi Hamele, et verum est, nisi hoc; Ordo "
+"Doctunorum me permittit ut aperiam arcana artis non omnino tam amissa quam "
+"crederamus fuisse."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:144
@@ -418,7 +421,7 @@ msgstr ""
 "Quoddam librum, in loculo secreto clausoque, quem unus ex saxis vivis arte "
 "runarum pura fodisset, quem caverna casa irrupit. Perdifficile nobis erat "
 "litteras obscuratas eius exsolvere. Sed fortasse, libro et malleo praesente, "
-"rursus runifices erudire initiareque possimus."
+"rursus runifices erudire initiareque possumus."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:160
@@ -435,7 +438,7 @@ msgid ""
 msgstr ""
 "Mi domine, nuper invenimus. Etiam nunc librum exsolvimus. Ac est alia res: "
 "quia Malleus Calcarthae et liber huc est, quaestio sit... gravis, utrum hic "
-"an ille runifices novos erudiat."   
+"an ille runifices novos erudiat."
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:168
@@ -443,7 +446,8 @@ msgid ""
 "We feared stirring up a controversy before the book was even properly "
 "understood."
 msgstr ""
-"Timebamus ut ante discordiam agiteremus quam librum etiam recte intellegeremus." 
+"Timebamus ut ante discordiam agiteremus quam librum etiam recte "
+"intellegeremus."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:172
@@ -461,8 +465,8 @@ msgid ""
 "That is obvious; the Order of Loremasters wants to send an expedition to Kal "
 "Kartha to find what has become of our kindred and the Hammer."
 msgstr ""
-"Res apparet; Ordo Latorum legionem Calcartham mittere vult ut quod genti "
-"nostra et Malleo accidit inveniat."
+"Res apparet; Ordo Doctunorum legionem Calcartham mittere vult ut quod "
+"congenti et Malleo accidit inveniat."
 
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:180
@@ -543,7 +547,7 @@ msgid ""
 msgstr ""
 "Angartor, Aeglondurus et manus Nanorum celeriter ad orientem per terras a "
 "Societate Borea habitas, quo populi ab immensibus incursionibus orcium "
-"hominumque hostilium communiter metuere." 
+"hominumque hostilium communiter metuere."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:163
@@ -582,7 +586,7 @@ msgid ""
 "Gods with you and your precious ‘Alliance’."
 msgstr ""
 "Quocumque volumus, ibimus, rapientes quacumque volumus, canis orcis. Ite ad "
-"Deos Obscuros cum tua ‘Societate’ tua."   
+"Deos Obscuros cum tua ‘Societate’ tua."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:200
@@ -598,7 +602,7 @@ msgid ""
 "Alliance. Not so strange to see humans raiding us, worse luck."
 msgstr ""
 "Miror ipse quod tot de gentibus orcium cum Societate coniunxerunt. Non tamen "
-"miror quod homines nos peius irruent."   
+"miror quod homines nos peius irruent."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:208
@@ -618,7 +622,7 @@ msgstr "Foederi igitur parete sicut ego."
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:220
 msgid "That is our duty."
-msgstr "Officium nonstrum est."
+msgstr "Officium nostrum est."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:224
@@ -638,7 +642,7 @@ msgid ""
 "the Alliance’s tribes if we had not killed them here."
 msgstr ""
 "Nani, gratias vobis ago. Fortasse hi proscripti gentes Societatis "
-"cruentassent nisi eos hic interfecimus." 
+"cruentassent nisi eos hic interfecimus."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:262
@@ -678,7 +682,7 @@ msgid ""
 msgstr ""
 "Aeglondurus suique, pars etiam dubitans de animo ipso pro orcibus pugnandi "
 "potius quam adversum, ad finem orientalem agrorum Societatis Boreae ire "
-"perrexerunt" 
+"perrexerunt."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:99
@@ -723,7 +727,7 @@ msgid ""
 "leads to it. It won’t do to have wild trolls squatting on it. Axes up!"
 msgstr ""
 "Sic ab Societate structus est, tamquam haec via quae ad hoc locum ducit. Non "
-"bene habet se, si troglodytae eum occupent. Tollite secures!" 
+"bene habet se, si troglodytae eum occupent. Tollite secures!"
 
 #. [scenario]: id=05_Invaders
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:3
@@ -741,8 +745,7 @@ msgid ""
 "The Alliance’s road ended at the troll bridge. East of it lay only the "
 "wildlands."
 msgstr ""
-"Via Societatis in ponte Troglodytarum desiit, ultra quem modo avia "
-"iacebant"
+"Via Societatis in ponte Troglodytarum desiit, ultra quem modo avia iacebant"
 
 #. [side]: type=Orcish Warlord, id=Tan-Malgar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:54
@@ -786,8 +789,8 @@ msgid ""
 "Stay alert, everyone, and keep together. This is bandit country — more than "
 "likely where Gothras and his gang came from."
 msgstr ""
-"Praecavete, nani, prope ab me manete. Haecc est terra proscriptorum — de "
-"quo certe Gothras grexque eius venerunt"
+"Praecavete, nani, prope ab me manete. Haecc est terra proscriptorum — de quo "
+"certe Gothras grexque eius venerunt"
 
 #. [message]: role=Scout
 #. "muckle" = Scottish/archaic English meaning "great" or "large"
@@ -796,8 +799,8 @@ msgid ""
 "Nae sign o’ bandits I can see, captain — but there are three muckle hosts of "
 "orcs off to our east."
 msgstr ""
-"Sunt nulla vestigia proscriptorum visibilia — sed est in oriente bonus grex" 
-"orcium." 
+"Sunt nulla vestigia proscriptorum visibilia — sed est in oriente bonus "
+"grexorcium."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:385
@@ -806,7 +809,7 @@ msgid ""
 "can only mean trouble."
 msgstr ""
 "Quid est? Magnaene catervae tam propiores fines Societatis? Tantum pericula "
-"indicat potest." 
+"indicat potest."
 
 #. [message]: speaker=Tan-Malgar
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:389
@@ -860,7 +863,7 @@ msgid ""
 "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
 msgstr ""
 "Ecce, Angustum Altum. Apud chartis veteribus, dimidium itineris ad "
-"Calcartham fecimus." 
+"Calcartham fecimus."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:156
@@ -869,7 +872,7 @@ msgid ""
 "Being caught in a blizzard on those heights would be no laughing matter."
 msgstr ""
 "Ocius transire necesse; est procella mordax ante nos. Nive in illis altis "
-"rapi haud ferendum erit."  
+"rapi haud ferendum erit."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:215
@@ -878,7 +881,7 @@ msgid ""
 "should investigate."
 msgstr ""
 "Intra illam casam pro summo angusto... Nescioquid calet. Scrutari nobis "
-"oportet." 
+"oportet."
 
 #. [unit]: type=Arch Mage, id=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:243
@@ -943,7 +946,7 @@ msgid ""
 "Aye. And I’d not leave anyone who had done my kin no harm stranded to starve."
 msgstr ""
 "Aio. Neque ullum linquam fame morti proiectum qui numquam genti meae "
-"laeserat." 
+"laeserat."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:302
@@ -985,15 +988,14 @@ msgid ""
 "Don’t you wonder what it was?"
 msgstr ""
 "Forte fortuna secunda non sit. Nescioquid illos orces quibus in viculos "
-"proscriptorum pugnavimus, terruit satis, ut ad agrum Societatis se "
-"moverunt. Nonne mirificum est?"  
+"proscriptorum pugnavimus, terruit satis, ut ad agrum Societatis se moverunt. "
+"Nonne mirificum est?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:354
 msgid ""
 "Aye. But I’ve a grim feeling we might be going to discover that in person."
-msgstr ""
-"Aio. Sed sensum severum habeo ne rationem singillatim inveniamus."
+msgstr "Aio. Sed sensum severum habeo ne rationem singillatim inveniamus."
 
 #. [scenario]: id=07_Mages_and_Drakes
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:3
@@ -1037,7 +1039,7 @@ msgid ""
 "dwarves. They are well-armed, but not in battle array."
 msgstr ""
 "Domine Perrine! Magus cum legione nanorum huc ab Angustum Altum devenit, "
-"bene sunt armati, at non in acie." 
+"bene sunt armati, at non in acie."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:149
@@ -1105,7 +1107,7 @@ msgid ""
 "the currents of the earth and air."
 msgstr ""
 "Aliquis magiam ebullit. Aliquid malum. Sentio vestigia in canalibus "
-"terrestribus aetheriisque." 
+"terrestribus aetheriisque."
 
 #. [unit]: type=Mage, id=Lorinne
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:199
@@ -1137,7 +1139,7 @@ msgid ""
 "their journey. I’ll return with your apprentices as soon as I may."
 msgstr ""
 "Perrine, nanis debitum debeo; offio mihi, puto, eos in itinere adiuvare "
-"esse. Cum dispiculis tuis quam celerrime redibo." 
+"esse. Cum dispiculis tuis quam celerrime redibo."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:232
@@ -1151,7 +1153,7 @@ msgid ""
 "more with Master Perrin gone."
 msgstr ""
 "Si possim ego ad orientem secum eam, sed iam Domino Perrino amisso schola "
-"magis mei egebit."  
+"magis mei egebit."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:247
@@ -1248,7 +1250,7 @@ msgid ""
 "here recently, and not a clean one."
 msgstr ""
 "His partibus magiam hostilem non sentio. Sed fuit ignis nuper prope has, "
-"neque pura fuit." 
+"neque pura fuit."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:183
@@ -1285,7 +1287,7 @@ msgstr "Quid dicas?"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:232
 msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
 msgstr "Nanos personatos. Interficientes, ardentes, abducentes. Ecce..."
- 
+
 # connanus = fellowdwarf
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:253
@@ -1332,7 +1334,7 @@ msgid ""
 "name and give up your murder, or the Law will cast you forth. I am a witness!"
 msgstr ""
 "Sine honore dicis. Mihi est veteris imperium Legis nostrae; dice nomen atque "
-"linque cladem, ne lumen linquas, Lex enim te detestabitur. Testis sum!" 
+"linque cladem, ne lumen linquas, Lex enim te detestabitur. Testis sum!"
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:277
@@ -1341,7 +1343,7 @@ msgid ""
 "hide behind your robes. I deny you!"
 msgstr ""
 "Si testis verorum esset, iste veteres lutulentum se ante trabeam tuam "
-"velare. Te veto!" 
+"velare. Te veto!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:282
@@ -1399,7 +1401,7 @@ msgid ""
 "place to doubt a loremaster."
 msgstr ""
 "Flagella. Vincla. Non, Angartor, in dubio est, etiamsi mihi locus detur ut "
-"de voce Latoris dubitem." 
+"de voce Doctuni dubitem."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:350
@@ -1468,7 +1470,7 @@ msgid ""
 msgstr ""
 "Paucos advenas vias silvestres nostras inire sinimus, neque quid de nanis ex "
 "quo personati margines eoas turbare aggressi sunt, neque qui de bipenniferis "
-"arbores nostros aggredientur. Redite unde venistis!"  
+"arbores nostros aggredientur. Redite unde venistis!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:279
@@ -1557,7 +1559,8 @@ msgid ""
 "Ahhh... more stinky-midgets, come to get killed just like these cowards in "
 "their den."
 msgstr ""
-"Ahhh... plures pumilionum foedorum obitum venerunt sicut hi territi in latibulo."
+"Ahhh... plures pumilionum foedorum obitum venerunt sicut hi territi in "
+"latibulo."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:258
@@ -1583,7 +1586,7 @@ msgid ""
 msgstr ""
 "Bene facitis, et gratias vobis ago; male oppressi sumus. Vos eritis hospites "
 "honorati, et ipse vobis optima spatia ostendam. Dominus noster, Carragus "
-"runipotens, vos alloqui cras velit."   
+"runipotens, vos alloqui cras velit."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:303
@@ -1603,6 +1606,11 @@ msgid ""
 "wounded near to death; none thought he would recover. But he leads us today, "
 "and his runelore has oft been the only shield between us and the orcs."
 msgstr ""
+"Sicine? Tanta melius quam me intellegis, doctune, sed Carragus noster diu "
+"laborabat ut doctum reciperet. Cum dominus priscus pugnans orcibus "
+"obsidentibus cecidit nobilitatus sit. Carragus ipse fere ad mortem "
+"vulneratus est; nemo putabat eum convalescere. Sed iam nos ducit, et saepe "
+"doctrina eius runarum sola nobis in orces clupeo est."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:313
@@ -1616,6 +1624,8 @@ msgid ""
 "followers. He has promised all of us that the Hammer’s power will smash and "
 "scatter all our enemies."
 msgstr ""
+"Aio. Eo in fabrica locorum inferiorum cum suis laborat. Promisit nos omnes "
+"potestatem Mallei omnes hostes fracturum et fusurum esse."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:323
@@ -1623,6 +1633,8 @@ msgid ""
 "That is strange. The Hammer is a tool of crafting and making, not a weapon. "
 "What can he mean to do with it?"
 msgstr ""
+"Mirum est. Malleus est non instrumentum belli, sed artificii. Quomodo ei uti "
+"vis?  "
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:328
@@ -1631,6 +1643,9 @@ msgid ""
 "see to my troop’s care. Food will be brought to you; rest well, we will "
 "speak again."
 msgstr ""
+"Domini et doctuni altercari debent, puto, neque qui mei similes. Mihi "
+"necesse est milites curare. Cibus vobis ferietur; bene quiescite, mox "
+"dicemus."
 
 #. [scenario]: id=11_The_Court_of_Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:3
@@ -1671,12 +1686,12 @@ msgstr ""
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:189
 msgid "I see it. There is something very wrong here."
-msgstr ""
+msgstr "Cerno. Aliquid hic valde malum est."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:194
 msgid "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
-msgstr ""
+msgstr "Avete, connani. Tota Calcartha pro opportune subveniendo gratias agit."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:199
@@ -1684,6 +1699,7 @@ msgid ""
 "We are from Knalga; your clans are kin to ours of old. We but did our duty "
 "to kin."
 msgstr ""
+"Gnalgae sumus; gentes tuae consanguinei sunt. Tantum per munus agebamus."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:204
@@ -1691,11 +1707,13 @@ msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
+"Omnes nanorum congentiles sunt, atque necesse est orces hominesque et alios "
+"de lutulentis superare. Sis pars pugnae quae eos paviat."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:209
 msgid "We did not come to smite anyone, but to re-open contact and trade."
-msgstr ""
+msgstr "Non venimus aliquem pavitum, sed commercium renovatum."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:214
@@ -2282,7 +2300,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
 msgid "Dwarvish Loremaster"
-msgstr "Lator Nanorum"
+msgstr "Doctunus Nanorum"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:23
