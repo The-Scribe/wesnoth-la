@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-06 11:47+0100\n"
-"PO-Revision-Date: 2011-12-23 16:58+0100\n"
+"PO-Revision-Date: 2012-03-31 20:35+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
 "Language: la\n"
@@ -90,6 +90,11 @@ msgid ""
 "troops but darker foes including orcs and undead.\n"
 "\n"
 msgstr ""
+"Manus colonorum robusta, dum nubes belli civilis per Vesnotem intendit, a "
+"dominatu Reginae Ascuerae deficiunt. Ad se liberandum, non modo ferra "
+"copiarum Vesnotiensium superando exercita opus est, sed et orces et inmortus "
+"cum aliquis, hostes tristiores.\n"
+"\n"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:30
@@ -114,12 +119,12 @@ msgstr "Imagines"
 #. [scenario]: id=01_The_Raid
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:4
 msgid "The Raid"
-msgstr ""
+msgstr "Incursio"
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:18
 msgid "Dallben"
-msgstr "Dallbenus"
+msgstr "Dalbenum"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:23
@@ -129,6 +134,9 @@ msgid ""
 "dissatisfied with the King’s rule. Being preoccupied with the great wars, "
 "the King was unable to send adequate forces to protect the frontier."
 msgstr ""
+"Delvyno Dalbenoque ultimae provinciae Annuviniae, Garardo II Aetate "
+"Tumultuum Rege, ob regis odium motus ortus est. Ille magnis bellis occupatus "
+"non satis copiarum finem defensum mittere potuit."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:27
@@ -137,6 +145,8 @@ msgid ""
 "against the raiding orc hordes and savage saurians. They established their "
 "own trading routes and pacts of mutual defense."
 msgstr ""
+"Populus robustus harum finium, commerciis structis; foederibus ictis, "
+"superesse greges orcium lacertarumque aggredientum superareque didicerant."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:31
@@ -145,6 +155,9 @@ msgid ""
 "were at home in the forests and swamps of the Western Marches, and became "
 "very effective with their simple slings and clubs."
 msgstr ""
+"Quamvis silvicolae non permissi ut telis propriis exercerent, silvas etiam "
+"et paludes Finium Occidentis solebant. Quae peritissimi fundarum et clavarum "
+"simplicium facti sunt."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:35
@@ -153,6 +166,9 @@ msgid ""
 "sought to consolidate her ill-gotten power. She sent her armies across "
 "Wesnoth to intimidate the provincial rulers and secure her continued reign."
 msgstr ""
+"Interrex nova Rege ab Asceura prodito petebat ut potestatem male adeptam "
+"muniat. Exercitus ita eius per Vesnotem procuratores provinciarum territum "
+"misit."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:39
@@ -160,6 +176,8 @@ msgid ""
 "The people of Annuvin were unwilling to relinquish their hard-earned self-"
 "rule, especially not to this pretender..."
 msgstr ""
+"Populus Annuviniae rem publicam vix adeptam relinquere, praesertim istae "
+"fraudatoris causa, nolebant..."
 
 #. [side]: type=Bandit_Peasant, id=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:59
@@ -175,12 +193,12 @@ msgstr "Falcagus"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:103
 msgid "Defeat all of the Goblin marauders"
-msgstr ""
+msgstr "Omnes depopulatores Orculium vincere "
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:107
 msgid "Goblins reach the village of Dallben"
-msgstr ""
+msgstr "Orcules viculum Dalbenum attingere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:111
@@ -238,6 +256,9 @@ msgid ""
 "sufficient forces we must look to these villagers to feed our wolves and "
 "slake the thirst of our blades."
 msgstr ""
+"Urbes hominum cremare cupio, at antequam Magi Principes nostri satis "
+"copiarum tribuant, ex his vicanis, ut lupos pascamus et sitim cruoris "
+"expleamus, pendere necesse est."
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:198
@@ -245,6 +266,8 @@ msgid ""
 "Ride, you worms, I want to finish our raid before the hunting party returns "
 "to the human village."
 msgstr ""
+"Currite, isti vermes: ante incursionem conficere volo quam venatores ad "
+"viculum humanum redeunt."
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:207
@@ -291,12 +314,15 @@ msgstr "Treagus"
 msgid "Harper"
 msgstr "Harper"
 
+# syncopation
 #. [message]: speaker=Red
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:235
 msgid ""
 "Look, goblin riders approach! You were right, they were going to raid "
 "Dallben while we were gone."
 msgstr ""
+"En lupites orcules! Vera dixti, incurrere nobis absentibus Dalbeno futuri "
+"erant."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:239
@@ -304,6 +330,8 @@ msgid ""
 "We must stop them before they reach the village. Damn the crown, they have "
 "long since forgotten about us out here."
 msgstr ""
+"A vico nobis arcendi sunt. Coronam despuo, nostrum ipsorum iampridem obliti "
+"sunt."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:243
@@ -311,6 +339,8 @@ msgid ""
 "That goblin leader is heading full-speed straight for Dallben. But we’ll "
 "need to chase them all down if we’re going to stop them."
 msgstr ""
+"Ille dux orculium praeceps Dalbeno advolat. Sed ad istos arcendum omnes "
+"venari necesse sit."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:247
@@ -318,6 +348,7 @@ msgid ""
 "Do it. Try to hold them back until us old-timers can get there and finish "
 "them off."
 msgstr ""
+"Face. Illos arcendum cura dum nos vetuli istuc ad eos conficiendum eamus."
 
 #. [message]: speaker=Baldras
 #. Some languages, including Norwegian and Old English, don't
@@ -332,11 +363,13 @@ msgid ""
 "your father is gone, and I won’t dishonor his memory by breaking my promise "
 "to keep you safe."
 msgstr ""
+"En Harper... noli mori. Patre obito tibi tutor sum, atque haud eum promisso "
+"te tuendi frangendo dedecorabo."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:261
 msgid "... I know... All right now, let’s stop these goblins!"
-msgstr ""
+msgstr "... Scio... Agite, hos orcules contineamus!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:301
@@ -344,6 +377,8 @@ msgid ""
 "We are barely able to survive these orc raids. We lost two men last week, "
 "more today... yet Weldyn does nothing!"
 msgstr ""
+"Vix incursionem orcium superfuimus. Duo homines nuper amissi sunt, hodie "
+"plures... Veldin tamen nihil agit!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:308
@@ -351,6 +386,8 @@ msgid ""
 "We are barely able to survive these orc raids. We lost two men last week, "
 "more could have died today... yet Weldyn does nothing!"
 msgstr ""
+"Vix incursionem orcium superfuimus. Duo homines nuper amissi sunt, hodie "
+"plures mortui fuisse debuerunt... Veldin tamen nihil agit!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:314
@@ -359,18 +396,21 @@ msgid ""
 "happened, the burden fell to us. We are citizens of Wesnoth, and as long as "
 "her banner flies we will resist the horde."
 msgstr ""
+"Bello sumpto Rex huc circitores mittere destitit. Quae cum ita essent nos "
+"onus sustinebamus. Cives Vesnotienses sumus, atque gregem sistemus dum "
+"vexillum retineatur."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:318
 msgid "The banner will fly over a ghost town if help does not come soon."
-msgstr ""
+msgstr "Vexillum a vico lemurum direptum fuerit si nihil auxilii erit."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:346
 msgid ""
 "They’re getting closer to our village! What about the town guards, can they "
 "help us?"
-msgstr ""
+msgstr "Vicos nostri accedunt! Nonne custodes vici nos adiuvare possunt?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:350
@@ -379,6 +419,7 @@ msgid ""
 "aren’t many of them... I wouldn’t count on them being able to protect the "
 "village alone for long."
 msgstr ""
+"Cum illos lupites vel nos conspectaverint apparebunt, sed modo pauci sunt... "
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:365
@@ -393,27 +434,28 @@ msgstr "Volmas"
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:371
 msgid "Jasken"
-msgstr "Iaskenus"
+msgstr "Iascenus"
 
+# ut si=sicut
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:378
 msgid "What’s happening here? Why are you running like mad, $unit.name|?"
-msgstr ""
+msgstr "Quid est? Cur ut si amens esses undique curris, $unit.name|?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:382
 msgid "Goblin riders on the hunt. We must not let any of them to the village!"
-msgstr ""
+msgstr "Lupites orcules venantur. Omnibus vicus haud attingendus est!"
 
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:389
 msgid "Look! Goblin riders are on the hunt — and heading right for Dallben!"
-msgstr ""
+msgstr "Ecce! Lupites Orcules venantur — ad Dalbenum recta eunt!"
 
 #. [message]: speaker=Remald
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:393
 msgid "Halt!"
-msgstr ""
+msgstr "Manete!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:413
@@ -421,6 +463,7 @@ msgid ""
 "The goblins reached the village! There will surely be nothing left when they "
 "are done pillaging it."
 msgstr ""
+"Orcules ad vicum pervenerunt! Nihil sane stabit cum rapinam perfecerint."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:426
@@ -428,11 +471,13 @@ msgid ""
 "None remarked on the passing of the tiny, isolated frontier town. It was but "
 "a harbinger of the evil to come under the tyranny of Asheviere."
 msgstr ""
+"Nulli exitium exigui oppidi deviique memorabant. Tantum erat omen malorum "
+"tyrannidis Ascuerae futurorum."
 
 #. [scenario]: id=02_Civil_Disobedience
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:4
 msgid "Civil Disobedience"
-msgstr ""
+msgstr "Discordia Civilis"
 
 #. [side]: type=Bandit, id=Baldras
 #. [side]: type=Shadow Lord, id=Helicrom
@@ -485,17 +530,17 @@ msgstr "Ascuera"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:77
 msgid "Kill the Wesnoth army captain, Tarwen"
-msgstr ""
+msgstr "Centurionem Vesnotiensem Tarvenium interficere"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:127
 msgid "Look, riders approach."
-msgstr ""
+msgstr "Ecces equites."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:131
 msgid "Stand fast, nephew."
-msgstr ""
+msgstr "Consiste, fili sororis."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:144
@@ -503,11 +548,13 @@ msgid ""
 "By order of the Queen, the magistrate of this town is ordered to travel with "
 "us to Elensefar for vetting."
 msgstr ""
+"Reginae iussu, magister huius oppidi nobiscum Ellensepharen ire iubetur ut "
+"scrutetur."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:148
 msgid "Garard is the King of Wesnoth. We are ruled by no queen."
-msgstr ""
+msgstr "Rex Vesnotei est Garardus. Nulla recti sumus regina."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:152
@@ -517,16 +564,19 @@ msgid ""
 "words with you. Your magistrate will be coming with us, and we do not care "
 "if it is dead or alive."
 msgstr ""
+"Ignari rustici, prae bonos ingeniculatote! Ascuera Regina Vesnotei est. Rex "
+"abhinc multos dies in Abese cecidit. Vobiscum non verbis decertabo. Magister "
+"suus nobiscum ibit, at non flocci facimus utrum vivus an mortuus."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:186
 msgid "Guard the gate."
-msgstr ""
+msgstr "Portam custodite."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:197
 msgid "Harper, get out of here. This is no battle for you."
-msgstr ""
+msgstr "Harper, exi. Hoc proelium non tui est."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:202
@@ -534,6 +584,8 @@ msgid ""
 "I am the magistrate of Dallben, and it is <i>you</i> who will be leaving "
 "Dallben, be it dead or alive."
 msgstr ""
+"Ego sum magister Dalbeni, at tu <i>ipse</i> e Dalbeno exibis, utrum sis "
+"mortuus an vivus."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:217
@@ -543,7 +595,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:231
 msgid "Get out of my village!"
-msgstr ""
+msgstr "Vicum meum linque!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:244
@@ -555,7 +607,7 @@ msgstr ""
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:249
 msgid "We must tell the people of Delwyn about this."
-msgstr ""
+msgstr "Delvynum certiorem facere opus est."
 
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:262
@@ -582,10 +634,9 @@ msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:340
-#, fuzzy
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr "O, non! Tempus exit et copiae novae aditae sunt..."
+msgstr "Eheu! Novae copiae tempore exito adierunt..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:353
@@ -597,7 +648,7 @@ msgstr ""
 #. [scenario]: id=03_A_Strategy_of_Hope
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:4
 msgid "A Strategy of Hope"
-msgstr ""
+msgstr "Strategema Spei"
 
 #. [side]: type=Highwayman_Peasant, id=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:43
@@ -630,7 +681,7 @@ msgstr "Fisfus"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:128
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Ambos duces hostium vincere"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:140
@@ -773,7 +824,7 @@ msgstr ""
 #. [scenario]: id=04_Unlawful_Orders
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:4
 msgid "Unlawful Orders"
-msgstr ""
+msgstr "Imperia Illicita"
 
 #. [label]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:18
@@ -783,7 +834,7 @@ msgstr "Ellensephar"
 #. [label]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:23
 msgid "Port of Elensefar"
-msgstr ""
+msgstr "Portus Ellensepharis"
 
 #. [side]: type=General, id=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:52
@@ -912,7 +963,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:582
 msgid "Who are you? What are you?"
-msgstr ""
+msgstr "Quis es? Quid es?"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:586
@@ -973,12 +1024,12 @@ msgstr ""
 #. [scenario]: id=05_Hide_and_Seek
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:6
 msgid "Hide and Seek"
-msgstr ""
+msgstr "Celare Invenireque"
 
 #. [time]: id=midnight
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:12
 msgid "Midnight"
-msgstr ""
+msgstr "Multa Nox"
 
 #. [side]: type=Master Bowman, id=Quentin
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:50
@@ -1025,7 +1076,7 @@ msgstr "Linco"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:516
 msgid "Who are you?"
-msgstr ""
+msgstr "Quis es?"
 
 #. [message]: speaker=Link
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:520
@@ -1102,11 +1153,10 @@ msgstr ""
 
 #. [message]: speaker=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:728
-#, fuzzy
 msgid ""
 "You can come if you wish, but the leader is only interested in speaking to "
 "Baldras."
-msgstr "Potes venire si vis, sed dux tantum cum Baldrade loqui vult."
+msgstr "Venias si vis, sed dux tantum cum Baldrade loqui vult."
 
 #. [message]: speaker=Hans
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:748
@@ -1130,7 +1180,7 @@ msgstr ""
 #. [scenario]: id=06_The_Grey_Woods
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:4
 msgid "The Grey Woods"
-msgstr ""
+msgstr "Silvae Lividae"
 
 #. [side]: type=Shadow Lord, id=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:63
@@ -1156,12 +1206,12 @@ msgstr "Sel Mana"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:154
 msgid "Defeat the lich and its minions"
-msgstr ""
+msgstr "Mortifugam adseculasque eius vincere "
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:225
 msgid "The leader, I presume."
-msgstr ""
+msgstr "Dux es, opinor."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:229
@@ -1238,7 +1288,7 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:300
 msgid "The lich is destroyed and its minions dead."
-msgstr ""
+msgstr "Mortifuga deleta et adseculae mortui sunt."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:317
@@ -1348,7 +1398,7 @@ msgstr ""
 #. [scenario]: id=07_The_Hunters
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:4
 msgid "The Hunters"
-msgstr ""
+msgstr "Venatores"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:24
@@ -1396,7 +1446,7 @@ msgstr "Linneus"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:96
 msgid "Kill all enemy forces"
-msgstr ""
+msgstr "Omnes copias hostiles interficere"
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:135
@@ -1441,7 +1491,7 @@ msgstr "Urceus"
 #. [message]: speaker=Pitcher
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:172
 msgid "whisper^<i>Baldras!</i>"
-msgstr ""
+msgstr "<i>Baldras!</i>"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:176
@@ -1538,7 +1588,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:324
 msgid "Ow! Fire hot! No step in fire!"
-msgstr ""
+msgstr "Io! Ignem calidum! Noli ei insistere!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:344
@@ -1566,7 +1616,7 @@ msgstr ""
 #. [scenario]: id=08_Glory
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:4
 msgid "Glory"
-msgstr ""
+msgstr "Gloria"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:25
@@ -1634,12 +1684,12 @@ msgstr "Orces"
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:385
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:597
 msgid "Destroy the stronghold of Halstead"
-msgstr ""
+msgstr "Castellum Halmoenis delere"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:422
 msgid "There it is. The stronghold of Halstead."
-msgstr ""
+msgstr "Eccillud: castellum Halmoenis."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:435
@@ -1752,17 +1802,17 @@ msgstr ""
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:525
 msgid "Look in the distance... riders approach!"
-msgstr ""
+msgstr "Ecce equites procul veniunt!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:534
 msgid "Who is it?"
-msgstr ""
+msgstr "Qui sunt?"
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:538
 msgid "Help, I hope. Circumstances cannot afford to get much more dire."
-msgstr ""
+msgstr "Spero se spei fore. Res sane haud magis subitae factae sint."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:544
@@ -1777,7 +1827,7 @@ msgstr "Dominus Guidion"
 #. [message]: type=Lancer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:568
 msgid "Sound the advance!"
-msgstr ""
+msgstr "Signum da!"
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:572
@@ -1785,6 +1835,8 @@ msgid ""
 "Knights of Elensefar, behold: the battle has already begun! Make camp here. "
 "Then, we charge!"
 msgstr ""
+"Equites Ellenses, aspicite: proelium iam sumptum est! Castra hic ponite. "
+"Inde eis incurremus!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:585
@@ -1830,7 +1882,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:743
 msgid "It’s done."
-msgstr ""
+msgstr "Factum est."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:770
@@ -1889,7 +1941,7 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:949
 msgid "Our dream of freedom... gone... Unngh."
-msgstr ""
+msgstr "Somnium libertatis nostrum... perditum... Ah."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:956
@@ -1902,12 +1954,12 @@ msgstr ""
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:972
 msgid "Uncle!"
-msgstr ""
+msgstr "Avuncule!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:976
 msgid "NO!"
-msgstr ""
+msgstr "VAE!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:980
@@ -2135,13 +2187,13 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:29
 msgid "astral blade"
-msgstr "ferrum aeris"
+msgstr "ferrum aetherium"
 
 #. [attack]: type=cold
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:40
 #: data/campaigns/Liberty/units/Shadow_Mage.cfg:39
 msgid "shadow bolt"
-msgstr "fulmen opacum"
+msgstr "fulmen umbrarum"
 
 #. [attack]: type=impact
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:52
@@ -2193,7 +2245,7 @@ msgstr ""
 #. [unit_type]: id=Bandit_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:36
 msgid "Village Elder"
-msgstr "Pater Vicanus"
+msgstr "Pater Vici"
 
 #. [unit_type]: id=Bandit_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:39
@@ -2206,7 +2258,7 @@ msgstr ""
 #. [unit_type]: id=Highwayman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:52
 msgid "Senior Village Elder"
-msgstr "Princeps Vicanus"
+msgstr "Princeps Vici"
 
 #. [unit_type]: id=Highwayman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:56
@@ -2220,7 +2272,7 @@ msgstr ""
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:58
 msgid "female^Senior Village Elder"
-msgstr "Princeps Vicana"
+msgstr "Princeps Vici"
 
 #. [unit_type]: id=Footpad_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:119
@@ -2324,13 +2376,13 @@ msgstr "Anchus Sacer"
 msgid ""
 "You find a hefty pendant on a strange and ominous looking altar. It glows "
 "brightly when you pick it up!"
-msgstr ""
+msgstr "Torquem gravem in ara nova ominosaque invenis. Late fulget cum tollis!"
 
 #. [object]: id={ID}
 #: data/campaigns/Liberty/utils/utils.cfg:58
 msgid ""
 "There is a strange altar here and a pendant on it. I don’t want to touch it."
-msgstr ""
+msgstr "Est ara nova cum torque, quam tangere nolo."
 
 #. [effect]: type=arcane
 #: data/campaigns/Liberty/utils/utils.cfg:71
@@ -2340,22 +2392,22 @@ msgstr "anchus sacer"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/utils/utils.cfg:121
 msgid "Tell my wife... that I loved her!"
-msgstr ""
+msgstr "Dice uxori meae... me eam amare!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/utils/utils.cfg:136
 msgid "Unngh... Now our people may never be free..."
-msgstr ""
+msgstr "Ah... nunc populo liberari non licet..."
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/utils/utils.cfg:150
 msgid "I am finished... will we ever be free?"
-msgstr ""
+msgstr "Ruor... umquam liberi erimus?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/utils/utils.cfg:164
 msgid "How can this be? We have lost."
-msgstr ""
+msgstr "Quomodo potis est? Defuimus."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/utils/utils.cfg:180
