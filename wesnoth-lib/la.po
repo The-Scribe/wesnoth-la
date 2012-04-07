@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wesnoth 1.8\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-03-31 10:45+0200\n"
+"POT-Creation-Date: 2012-04-07 12:14+0200\n"
 "PO-Revision-Date: 2012-03-31 21:02+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: Latin <http://wiki.wesnoth.org/LatinTranslation>\n"
@@ -3414,19 +3414,16 @@ msgstr "Animationem Praeterire"
 
 #. TRANSLATORS: whiteboard menu entry: toggle planning mode
 #: src/hotkeys.cpp:114
-#| msgid "Toggle Planning Mode"
 msgid "whiteboard^Planning Mode"
 msgstr "Modus Parandi"
 
 #. TRANSLATORS: whiteboard menu entry: execute planned action
 #: src/hotkeys.cpp:116
-#| msgid "Execute All Actions"
 msgid "whiteboard^Execute Action"
 msgstr "Actionem Agere"
 
 #. TRANSLATORS: whiteboard menu entry: execute all planned actions
 #: src/hotkeys.cpp:118
-#| msgid "Execute All Actions"
 msgid "whiteboard^Execute All Actions"
 msgstr "Omnes Actiones Agere"
 
@@ -3445,9 +3442,8 @@ msgstr ""
 msgid "whiteboard^Move Action Down"
 msgstr ""
 
-#. TRANSLATORS: whiteboard menu entry: plan as if unit was dead
+#. TRANSLATORS: whiteboard menu entry: plan as though the chosen unit were dead
 #: src/hotkeys.cpp:126
-#| msgid "Suppose Dead"
 msgid "whiteboard^Suppose Dead"
 msgstr "Mortuum Putare"
 
