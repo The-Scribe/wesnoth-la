@@ -1351,11 +1351,15 @@ msgid ""
 "curriculum, you might say, were dealt with harshly. We are outcasts because "
 "we seek to master shadow magic. Our secrecy and security are not cheap."
 msgstr ""
+"Magistratus magiae regis prisci disciplinam usumque magorum Vesnotiensium "
+"severus regebat. Qui ausi... materias liquisse, ut dicunt, saeviter tractati "
+"sumus. Nos profugi cum artem magiae umbrarum perficere petamus. Occulta et "
+"impunitas nostrum pretiosa est."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:241
 msgid "I have heard of you. Necromancers. Barely-human scum, I say."
-msgstr ""
+msgstr "Istorum conscius sum, Veneficorum. Qui faex, puto, vix humana estis"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:245
@@ -1366,11 +1370,15 @@ msgid ""
 "of balance between the ways of light and darkness. We dance between both "
 "ways, adhering to neither."
 msgstr ""
+"Falsum dicis. Evocatores Mortum servi mortifugarum erorum facti sunt et "
+"denique humanitatem perdunt. Probavimus artes nigras exercendum non semper "
+"ad viam damnatam ducere. Humani manemus, et mystica viae lucis cum via "
+"tenebrarum aequandae petemus. Nos ambas persequimur et neutras obsequimur."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:249
 msgid "I... see, I think. Why do you want to help us?"
-msgstr ""
+msgstr "Intellego... arbitror. Quare nos adiuvare vultis"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:253
