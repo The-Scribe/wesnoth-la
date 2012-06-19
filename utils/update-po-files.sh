@@ -38,5 +38,5 @@ DIRS=" \
 
 for d in $DIRS; do
 	echo Updating ${d}/${LANG}.po
-	cp ~/wesnoth-1.10/po/${d}/${LANG}.po ~/wesnoth-${LANG}/$d/${LANG}.po
+	cp ~/wesnoth/po/${d}/${LANG}.po ~/wesnoth-${LANG}/$d/${LANG}.po
 done
