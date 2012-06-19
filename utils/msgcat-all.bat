@@ -1,57 +1,57 @@
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth\es.po -o C:\wesnoth-la\wesnoth\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-anl\es.po -o C:\wesnoth-la\wesnoth-anl\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-aoi\es.po -o C:\wesnoth-la\wesnoth-aoi\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-did\es.po -o C:\wesnoth-la\wesnoth-did\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dm\es.po -o C:\wesnoth-la\wesnoth-dm\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dw\es.po -o C:\wesnoth-la\wesnoth-dw\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-editor\es.po -o C:\wesnoth-la\wesnoth-editor\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-ei\es.po -o C:\wesnoth-la\wesnoth-ei\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-help\es.po -o C:\wesnoth-la\wesnoth-help\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-httt\es.po -o C:\wesnoth-la\wesnoth-httt\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-l\es.po -o C:\wesnoth-la\wesnoth-l\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-lib\es.po -o C:\wesnoth-la\wesnoth-lib\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-low\es.po -o C:\wesnoth-la\wesnoth-low\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manpages\es.po -o C:\wesnoth-la\wesnoth-manpages\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manual\es.po -o C:\wesnoth-la\wesnoth-manual\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-multiplayer\es.po -o C:\wesnoth-la\wesnoth-multiplayer\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-nr\es.po -o C:\wesnoth-la\wesnoth-nr\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sof\es.po -o C:\wesnoth-la\wesnoth-sof\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sotbe\es.po -o C:\wesnoth-la\wesnoth-sotbe\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tb\es.po -o C:\wesnoth-la\wesnoth-tb\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-test\es.po -o C:\wesnoth-la\wesnoth-test\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-thot\es.po -o C:\wesnoth-la\wesnoth-thot\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-trow\es.po -o C:\wesnoth-la\wesnoth-trow\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tsg\es.po -o C:\wesnoth-la\wesnoth-tsg\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tutorial\es.po -o C:\wesnoth-la\wesnoth-tutorial\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-units\es.po -o C:\wesnoth-la\wesnoth-units\es.po
-"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-utbs\es.po -o C:\wesnoth-la\wesnoth-utbs\es.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth\la.po -o C:\wesnoth-la\wesnoth\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-anl\la.po -o C:\wesnoth-la\wesnoth-anl\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-aoi\la.po -o C:\wesnoth-la\wesnoth-aoi\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-did\la.po -o C:\wesnoth-la\wesnoth-did\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dm\la.po -o C:\wesnoth-la\wesnoth-dm\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dw\la.po -o C:\wesnoth-la\wesnoth-dw\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-editor\la.po -o C:\wesnoth-la\wesnoth-editor\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-ei\la.po -o C:\wesnoth-la\wesnoth-ei\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-help\la.po -o C:\wesnoth-la\wesnoth-help\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-httt\la.po -o C:\wesnoth-la\wesnoth-httt\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-l\la.po -o C:\wesnoth-la\wesnoth-l\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-lib\la.po -o C:\wesnoth-la\wesnoth-lib\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-low\la.po -o C:\wesnoth-la\wesnoth-low\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manpages\la.po -o C:\wesnoth-la\wesnoth-manpages\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manual\la.po -o C:\wesnoth-la\wesnoth-manual\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-multiplayer\la.po -o C:\wesnoth-la\wesnoth-multiplayer\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-nr\la.po -o C:\wesnoth-la\wesnoth-nr\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sof\la.po -o C:\wesnoth-la\wesnoth-sof\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sotbe\la.po -o C:\wesnoth-la\wesnoth-sotbe\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tb\la.po -o C:\wesnoth-la\wesnoth-tb\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-test\la.po -o C:\wesnoth-la\wesnoth-test\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-thot\la.po -o C:\wesnoth-la\wesnoth-thot\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-trow\la.po -o C:\wesnoth-la\wesnoth-trow\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tsg\la.po -o C:\wesnoth-la\wesnoth-tsg\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tutorial\la.po -o C:\wesnoth-la\wesnoth-tutorial\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-units\la.po -o C:\wesnoth-la\wesnoth-units\la.po
+"C:\Program Files\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-utbs\la.po -o C:\wesnoth-la\wesnoth-utbs\la.po
 
 :: And for 64bit setups...
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth\es.po -o C:\wesnoth-la\wesnoth\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-anl\es.po -o C:\wesnoth-la\wesnoth-anl\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-aoi\es.po -o C:\wesnoth-la\wesnoth-aoi\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-did\es.po -o C:\wesnoth-la\wesnoth-did\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dm\es.po -o C:\wesnoth-la\wesnoth-dm\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dw\es.po -o C:\wesnoth-la\wesnoth-dw\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-editor\es.po -o C:\wesnoth-la\wesnoth-editor\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-ei\es.po -o C:\wesnoth-la\wesnoth-ei\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-help\es.po -o C:\wesnoth-la\wesnoth-help\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-httt\es.po -o C:\wesnoth-la\wesnoth-httt\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-l\es.po -o C:\wesnoth-la\wesnoth-l\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-lib\es.po -o C:\wesnoth-la\wesnoth-lib\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-low\es.po -o C:\wesnoth-la\wesnoth-low\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manpages\es.po -o C:\wesnoth-la\wesnoth-manpages\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manual\es.po -o C:\wesnoth-la\wesnoth-manual\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-multiplayer\es.po -o C:\wesnoth-la\wesnoth-multiplayer\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-nr\es.po -o C:\wesnoth-la\wesnoth-nr\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sof\es.po -o C:\wesnoth-la\wesnoth-sof\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sotbe\es.po -o C:\wesnoth-la\wesnoth-sotbe\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tb\es.po -o C:\wesnoth-la\wesnoth-tb\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-test\es.po -o C:\wesnoth-la\wesnoth-test\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-thot\es.po -o C:\wesnoth-la\wesnoth-thot\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-trow\es.po -o C:\wesnoth-la\wesnoth-trow\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tsg\es.po -o C:\wesnoth-la\wesnoth-tsg\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tutorial\es.po -o C:\wesnoth-la\wesnoth-tutorial\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-units\es.po -o C:\wesnoth-la\wesnoth-units\es.po
-"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-utbs\es.po -o C:\wesnoth-la\wesnoth-utbs\es.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth\la.po -o C:\wesnoth-la\wesnoth\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-anl\la.po -o C:\wesnoth-la\wesnoth-anl\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-aoi\la.po -o C:\wesnoth-la\wesnoth-aoi\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-did\la.po -o C:\wesnoth-la\wesnoth-did\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dm\la.po -o C:\wesnoth-la\wesnoth-dm\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-dw\la.po -o C:\wesnoth-la\wesnoth-dw\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-editor\la.po -o C:\wesnoth-la\wesnoth-editor\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-ei\la.po -o C:\wesnoth-la\wesnoth-ei\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-help\la.po -o C:\wesnoth-la\wesnoth-help\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-httt\la.po -o C:\wesnoth-la\wesnoth-httt\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-l\la.po -o C:\wesnoth-la\wesnoth-l\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-lib\la.po -o C:\wesnoth-la\wesnoth-lib\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-low\la.po -o C:\wesnoth-la\wesnoth-low\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manpages\la.po -o C:\wesnoth-la\wesnoth-manpages\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-manual\la.po -o C:\wesnoth-la\wesnoth-manual\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-multiplayer\la.po -o C:\wesnoth-la\wesnoth-multiplayer\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-nr\la.po -o C:\wesnoth-la\wesnoth-nr\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sof\la.po -o C:\wesnoth-la\wesnoth-sof\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-sotbe\la.po -o C:\wesnoth-la\wesnoth-sotbe\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tb\la.po -o C:\wesnoth-la\wesnoth-tb\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-test\la.po -o C:\wesnoth-la\wesnoth-test\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-thot\la.po -o C:\wesnoth-la\wesnoth-thot\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-trow\la.po -o C:\wesnoth-la\wesnoth-trow\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tsg\la.po -o C:\wesnoth-la\wesnoth-tsg\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-tutorial\la.po -o C:\wesnoth-la\wesnoth-tutorial\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-units\la.po -o C:\wesnoth-la\wesnoth-units\la.po
+"C:\Program Files (x86)\poedit\bin\msgcat.exe" C:\wesnoth-la\wesnoth-utbs\la.po -o C:\wesnoth-la\wesnoth-utbs\la.po
 pause
