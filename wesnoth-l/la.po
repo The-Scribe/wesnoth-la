@@ -1476,6 +1476,8 @@ msgid ""
 "I was planning on giving you gold. Any good army is well financed, and with "
 "the lich gone we can now spare it."
 msgstr ""
+"Aurum tibi dare intendebam. Quisque exercitus bonus copiam auri habet; "
+"equidem, mortifuga deleto, nunc ea uti possumus."  
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:357
@@ -1484,6 +1486,8 @@ msgid ""
 "on your adventures. The Queen has been sending mages out here, and my men "
 "are itching for some payback."
 msgstr ""
+"At, puto, melior sit partem meorum qui tecum coniungant commodare. Regina "
+"magos hinc mittere solet, et mei illos ulcisci cupiunt cupiunt."  
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:361
@@ -1491,21 +1495,23 @@ msgid ""
 "On the other hand, if I keep the full force of my organization here, we "
 "might be able to regroup and join you on the battlefield when the time comes."
 msgstr ""
+"Contra si vim totam meorum detineam forsitan nos reparare possimus; dehinc "
+"in tempore ad certandum tecum coniungere." 
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:365
 msgid "I leave it to you to decide."
-msgstr ""
+msgstr "Tibi rem decernere licet."
 
 #. [option]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:367
 msgid "I will take the gold. How does 500 sound?"
-msgstr ""
+msgstr "Aurum mihi placeat. Quingentos aureos des?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:371
 msgid "Agreed. Good luck and farewell to you, Master Baldras."
-msgstr ""
+msgstr "Constat. Feliciter et vale, Baldras."
 
 #. [option]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:392
