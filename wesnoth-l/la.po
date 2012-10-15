@@ -1530,16 +1530,18 @@ msgid ""
 "Send your men with us. They will be valuable help as we prepare for the "
 "assault from the Wesnoth army garrison."
 msgstr ""
+"Mittite suos nobiscum. Utilissimi expeditioni procul castello exercitus "
+"Vesnotiensis erint." 
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:396
 msgid "Done. My finest mages and thieves are at your disposal. Use them well."
-msgstr ""
+msgstr "Dictum et factum. Optimi de magis meis tibi sunt. Bene eos utere."
 
 #. [option]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:411
 msgid "I wish you to join us in battle against the Queen’s forces."
-msgstr ""
+msgstr "Te nobiscum pro proelio in copias Reginae coniungere volo."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:415
@@ -1548,11 +1550,13 @@ msgid ""
 "countryside. We will be ready to march in seven days. All now hinges on you! "
 "Until then..."
 msgstr ""
+"Bene. Amabo da mihi spatium ut silva purgata meos ex rure revocem. Parati "
+"septem diebus ad iter faciendum erimus. Nunc omnia ex te pendunt!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:465
 msgid "My men... have failed to protect me! I perish..."
-msgstr ""
+msgstr "Mei... in defensioni mei defuerunt! Pereo..."
 
 #. [scenario]: id=07_The_Hunters
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:4
@@ -1565,6 +1569,8 @@ msgid ""
 "Baldras and his men quickly left the Grey Woods, not entirely convinced of "
 "their safety even after eradicating the lich."
 msgstr ""
+"Baldras suique cito Silva Livida abeunt, nec etiam post mortifugam deletam " 
+"omnino salutatis certi." 
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:27
@@ -1574,6 +1580,9 @@ msgid ""
 "them. The ascent of the Queen had cast an uneasy pall over the citizens of "
 "Wesnoth, and some of them were willing to resist it."
 msgstr ""
+"Ut pergebant, multi homines mulieresque se ex viculis parvis per Carcinem "
+"et Silam Lividam dispersis rogabant, ut secum coniungant; ascensum Reginae "
+"nubem tristem civibus Vesnotei ponisse, ac quosdem esse qui resistant."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:30
@@ -1582,6 +1591,8 @@ msgid ""
 "help.\n"
 "<b>Note:</b> Baldras is now able to recruit Outlaws."
 msgstr ""
+"Quamquam sciebant se sceleres appellari, Baldras invitus illos accepit.\n"
+"<b>Nota bene:</b> Baldras nunc Profugos adlegere potest."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:34
@@ -1591,6 +1602,9 @@ msgid ""
 "to the northwest. Unsure what to make of it, they debated their next course "
 "of action..."
 msgstr ""
+"Tacito, castris suis in extrema silva positis, motum multarum copiarum, " 
+"quae ex Aldrile, urbe vicina, venerant, ad aquilonem et occidentem euntium " 
+"inspexerunt. Quia nesciebant quid erat, deliberarverunt quid faciant..."
 
 #. [side]: type=Royal Guard, id=Archarel
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:58
