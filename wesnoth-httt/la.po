@@ -6756,7 +6756,6 @@ msgstr ""
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:155
-#, fuzzy
 #| msgid ""
 #| "Princess, when Delfador the Great speaks of the Queen Mother, Asheviere, "
 #| "ordering the princes of Wesnoth to be put to death, he speaks the truth."
@@ -6786,7 +6785,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:173
-#, fuzzy
 #| msgid ""
 #| "Well, that is why I must take the Sceptre. I will return, and people will "
 #| "accept me as Queen. I will rule justly and fairly. My mother is only "
@@ -6812,7 +6810,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:183
-#, fuzzy
 #| msgid ""
 #| "Well, I have the Sceptre! I will return and the people will accept me as "
 #| "Queen! My mother is only Queen Mother. The Throne is rightfully mine, and "
@@ -8743,6 +8740,5 @@ msgstr ""
 #~ msgid "impact"
 #~ msgstr "incussus"
 
-#, fuzzy
 #~ msgid "arcane"
 #~ msgstr "arcanum"
