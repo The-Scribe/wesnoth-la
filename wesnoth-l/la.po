@@ -1602,7 +1602,7 @@ msgid ""
 "to the northwest. Unsure what to make of it, they debated their next course "
 "of action..."
 msgstr ""
-"Tacito, castris suis in extrema silva positis, motum multarum copiarum, " 
+"Tacite, castris suis in extrema silva positis, motum multarum copiarum, " 
 "quae ex Aldrile, urbe vicina, venerant, ad aquilonem et occidentem euntium " 
 "inspexerunt. Quia nesciebant quid erat, deliberarverunt quid faciant..."
 
@@ -1639,6 +1639,9 @@ msgid ""
 "of Wesnoth. Idiocy! If the noble lord of Elensefar is unwilling to resist "
 "the Queen, how should I ever expect to?"
 msgstr ""
+"Verba Domini Madocii me presserunt. Mihi viditur nos nusquam vincere posse; "
+"nam numquam totum exercitum Vesnotei vincemus. Quam stultum! Si dominus "
+"Ellensepharis honestus Reginae resistere nolet, quomodo ego speram?"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:158
@@ -1647,6 +1650,8 @@ msgid ""
 "platoons of heavy infantry marching towards the garrison in just the last "
 "two hours."
 msgstr ""
+"Quod peior est, illa nos cognoscere viditur. Quinque cohortes peditum ad "
+"castellum euntes tantum duobus horis numeravimus." 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:162
@@ -1655,6 +1660,9 @@ msgid ""
 "are a fortress. They used to protect this area from the enemies of Wesnoth; "
 "I never imagined they would house its enemies."
 msgstr ""
+"Castellum. Turres Halmoenis magis sunt quam unum castellum, fili sororis; "
+"namque arx sunt. Hanc regionem ab hostibus Vesnotei custodire solebant; "
+"numquam fingebam illa hostes eius continere."  
 
 #. [event]: id=Pitcher 20 14}, id=Pitcher 28 18}, id=Pitcher 20 14}
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:165
@@ -1674,7 +1682,7 @@ msgstr "Avuncule, insigne Ellensium gerit. Respondere debemus."
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:180
 msgid "Rider, hush before we are discovered! Come to us, but quietly!"
-msgstr ""
+msgstr "Eques, sile ne reperiamur! Veni, at tacite!"
 
 #. [message]: speaker=Pitcher
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:187
@@ -1683,11 +1691,14 @@ msgid ""
 "patrols have again ventured across the Great River into Annuvin. A woman "
 "named Relana opposed them with a small militia. She was victorious."
 msgstr ""
+"Baldras, nuntia ex septentrione refero. Paucie ante diebus, multi circitores " 
+"trans Magnum Flumen in Annuviniam ire ausi sunt. Quaedam mulier, Relana "
+"nomine, in obviam cum parva copia iit. Illa vicit."  
 
 #. [message]: speaker=Majel
-#: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:191
+#: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:191 
 msgid "This is surely good news!"
-msgstr ""
+msgstr "Nonne nuntium bonum est?"
 
 #. [message]: speaker=Pitcher
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:195
@@ -1696,6 +1707,8 @@ msgid ""
 "directly from Weldyn. As soon as they arrive, they will burn every village "
 "to the ground. No one will live."
 msgstr ""
+"Malum est. Regina partem ex legionibus propioribus recta ab Veldine mittit. "
+"Simulatque pervenerint, omnes viculos radicitus urentur. Nemo vivabit."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:199
@@ -1852,12 +1865,12 @@ msgstr "Vasna"
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:386
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:599
 msgid "Destroy the stronghold of Halstead"
-msgstr "Castellum Halmoenis delere"
+msgstr "Arcem Halmoenis delere"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:424
 msgid "There it is. The stronghold of Halstead."
-msgstr "Eccillud: castellum Halmoenis."
+msgstr "Eccillam: arcem Halmoenis."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:437
@@ -1990,7 +2003,7 @@ msgstr ""
 #. [unit]: type=Paladin, id=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:555
 msgid "Sir Gwydion"
-msgstr "Dominus Guidion"
+msgstr "Dominus Guidius"
 
 #. [message]: type=Lancer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:570
@@ -2151,7 +2164,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1048
 msgid "Your reign of terror is over, General."
-msgstr ""
+msgstr "Regnum terroris tui finitus est, Legate."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1053
