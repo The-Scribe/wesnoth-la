@@ -1718,11 +1718,15 @@ msgid ""
 "They mustn’t take one step without us being there to harass and delay them. "
 "When they reach Halstead they must be exhausted or dying."
 msgstr ""
+"Omnes motus copiarum nunc ad cognoscendum in aperto sunt. Necesse est "
+"impedire ne castrum attingant. Vorare non possumus, sed saltem arrodere. "
+"Illis non una uncia licet nisi nos ante pedes ad vexandum ac tardandum "
+"sumus. Cum Halmoenem attigerint defessi aut morientes simus."  
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:203
 msgid "You just said we can’t beat their entire army!"
-msgstr ""
+msgstr "At modo dixisti nos omnes superare non posse!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:207
@@ -1730,6 +1734,8 @@ msgid ""
 "Do you propose surrender? It’s this or nothing. All we can do is see it "
 "through to the end."
 msgstr ""
+"Putesne nos se dedere? Hoc faciamus aut nihil. Modo pergere ad finem "
+"possumus." 
 
 #. [message]: speaker=Pitcher
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:211
@@ -1737,11 +1743,13 @@ msgid ""
 "May you prevail in peace and war. I must depart before I am seen so far from "
 "my Lord’s borders."
 msgstr ""
+"Valeas domo belloque. Ire debeo priusquam tam procul a finibus ipsius "
+"observor." 
 
 #. [message]: speaker=Jingo
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:222
 msgid "Another platoon approaches..."
-msgstr ""
+msgstr "Alia ala appropinquat..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:274
@@ -1750,11 +1758,14 @@ msgid ""
 "the army of the usurper. Strike fast, strike silently... and leave no one "
 "alive."
 msgstr ""
+"Cum proelium finiverimus, nemo vias apertas noctemque caelumque timebit "
+"magis quam exercitus praedonis. Ferite cito, ferite tacite... et nullum "
+"vivum linquete."
 
 #. [message]: speaker=Linneus
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:288
 msgid "It’s an ambush! Hold your ground!"
-msgstr ""
+msgstr "Insidiati sumus! Firmos manete!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:299
@@ -1763,6 +1774,8 @@ msgid ""
 "They were surprised to see their fellow soldiers engaged in combat with the "
 "band of thugs of which they had heard so much."
 msgstr ""
+"Vigiles vicini, postridie mane, ad stationem proximam redierunt.Mirabantur, "
+"cum contubernales adversus manum latronum famosam pugnantes viderint." 
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:307
@@ -1770,6 +1783,8 @@ msgid ""
 "Troops, to arms! These peasant scum think they are above the law. We will "
 "show them the law!"
 msgstr ""
+"Vires, ad arma! Isti rustici scelrati putant se iurem effugere posse. De iure"
+"respondebimus!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:324
@@ -1784,6 +1799,10 @@ msgid ""
 "people may have a chance. Rest well tonight, because tomorrow’s battle will "
 "decide the fate of our homes, our families, and our freedom."
 msgstr ""
+"Quam crueta caedes. Nunc ad Halmoenem pugnandum est. Si moremur, illi "
+"invicti fiant. Si totum urere possimus priusquam accidit, fortasse gens "
+"nostra superstabunt. Bene dormite hac nocte, nam ex proelio psotridie pendet "
+"fortuna vitarum nostrum et domuum et libertatis."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:355
@@ -1791,6 +1810,8 @@ msgid ""
 "Send word to Helicrom that we are ready. It is time for him to repay his "
 "debt."
 msgstr ""
+"Helicromum certiorem fac nos paratos esse. Nunc sibi ad debitum reddendum "
+"est." 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:376
@@ -1798,6 +1819,8 @@ msgid ""
 "We have spent too much time here. Surely the entire Wesnoth army marches on "
 "our position. We are done for!"
 msgstr ""
+"Tamdiu hic morati sumus. Nonne totus exercitus Vesnotei hinc iter faciunt. "
+"Vae nobis!"
 
 #. [scenario]: id=08_Glory
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:4
