@@ -6796,8 +6796,8 @@ msgid ""
 "Mother. The throne is rightfully mine, and with the Sceptre I can prove it."
 msgstr ""
 "Quo facto Sceptrum capere debeo. Reveniam et populus me ut reginam accipiet. "
-"Iuste recteque regnabo. Mater solum Regina brevis est. Solium iuste mihi est, "
-"et cum Sceptro demonstrare possum."
+"Iuste recteque regnabo. Mater solum Regina brevis est. Solium iuste mihi "
+"est, et cum Sceptro demonstrare possum."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:177

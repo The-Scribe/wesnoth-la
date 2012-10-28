@@ -1519,7 +1519,7 @@ msgid ""
 "assault from the Wesnoth army garrison."
 msgstr ""
 "Mittite suos nobiscum. Utilissimi expeditioni procul castello exercitus "
-"Vesnotiensis erint." 
+"Vesnotiensis erint."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:396
@@ -1557,8 +1557,8 @@ msgid ""
 "Baldras and his men quickly left the Grey Woods, not entirely convinced of "
 "their safety even after eradicating the lich."
 msgstr ""
-"Baldras suique cito Silva Livida abeunt, nec etiam post mortifugam deletam " 
-"omnino salutatis certi." 
+"Baldras suique cito Silva Livida abeunt, nec etiam post mortifugam deletam "
+"omnino salutatis certi."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:27
@@ -1568,8 +1568,8 @@ msgid ""
 "them. The ascent of the Queen had cast an uneasy pall over the citizens of "
 "Wesnoth, and some of them were willing to resist it."
 msgstr ""
-"Ut pergebant, multi homines mulieresque se ex viculis parvis per Carcinem "
-"et Silam Lividam dispersis rogabant, ut secum coniungant; ascensum Reginae "
+"Ut pergebant, multi homines mulieresque se ex viculis parvis per Carcinem et "
+"Silam Lividam dispersis rogabant, ut secum coniungant; ascensum Reginae "
 "nubem tristem civibus Vesnotei ponisse, ac quosdem esse qui resistant."
 
 #. [part]
@@ -1590,8 +1590,8 @@ msgid ""
 "to the northwest. Unsure what to make of it, they debated their next course "
 "of action..."
 msgstr ""
-"Tacite, castris suis in extrema silva positis, motum multarum copiarum, " 
-"quae ex Aldrile, urbe vicina, venerant, ad aquilonem et occidentem euntium " 
+"Tacite, castris suis in extrema silva positis, motum multarum copiarum, quae "
+"ex Aldrile, urbe vicina, venerant, ad aquilonem et occidentem euntium "
 "inspexerunt. Quia nesciebant quid erat, deliberarverunt quid faciant..."
 
 #. [side]: type=Royal Guard, id=Archarel
@@ -1639,7 +1639,7 @@ msgid ""
 "two hours."
 msgstr ""
 "Quod peior est, illa nos cognoscere viditur. Quinque cohortes peditum ad "
-"castellum euntes tantum duobus horis numeravimus." 
+"castellum euntes tantum duobus horis numeravimus."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:162
@@ -1650,7 +1650,7 @@ msgid ""
 msgstr ""
 "Castellum. Turres Halmoenis magis sunt quam unum castellum, fili sororis; "
 "namque arx sunt. Hanc regionem ab hostibus Vesnotei custodire solebant; "
-"numquam fingebam illa hostes eius continere."  
+"numquam fingebam illa hostes eius continere."
 
 #. [event]: id=Pitcher 20 14}, id=Pitcher 28 18}, id=Pitcher 20 14}
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:165
@@ -1679,12 +1679,12 @@ msgid ""
 "patrols have again ventured across the Great River into Annuvin. A woman "
 "named Relana opposed them with a small militia. She was victorious."
 msgstr ""
-"Baldras, nuntia ex septentrione refero. Paucie ante diebus, multi circitores " 
+"Baldras, nuntia ex septentrione refero. Paucie ante diebus, multi circitores "
 "trans Magnum Flumen in Annuviniam ire ausi sunt. Quaedam mulier, Relana "
-"nomine, in obviam cum parva copia iit. Illa vicit."  
+"nomine, in obviam cum parva copia iit. Illa vicit."
 
 #. [message]: speaker=Majel
-#: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:191 
+#: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:191
 msgid "This is surely good news!"
 msgstr "Nonne nuntium bonum est?"
 
@@ -1709,7 +1709,7 @@ msgstr ""
 "Omnes motus copiarum nunc ad cognoscendum in aperto sunt. Necesse est "
 "impedire ne castrum attingant. Vorare non possumus, sed saltem arrodere. "
 "Illis non una uncia licet nisi nos ante pedes ad vexandum ac tardandum "
-"sumus. Cum Halmoenem attigerint defessi aut morientes simus."  
+"sumus. Cum Halmoenem attigerint defessi aut morientes simus."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:203
@@ -1723,7 +1723,7 @@ msgid ""
 "through to the end."
 msgstr ""
 "Putesne nos se dedere? Hoc faciamus aut nihil. Modo pergere ad finem "
-"possumus." 
+"possumus."
 
 #. [message]: speaker=Pitcher
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:211
@@ -1732,7 +1732,7 @@ msgid ""
 "my Lord’s borders."
 msgstr ""
 "Valeas domo belloque. Ire debeo priusquam tam procul a finibus ipsius "
-"observor." 
+"observor."
 
 #. [message]: speaker=Jingo
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:222
@@ -1763,7 +1763,7 @@ msgid ""
 "band of thugs of which they had heard so much."
 msgstr ""
 "Vigiles vicini, postridie mane, ad stationem proximam redierunt.Mirabantur, "
-"cum contubernales adversus manum latronum famosam pugnantes viderint." 
+"cum contubernales adversus manum latronum famosam pugnantes viderint."
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:307
@@ -1771,8 +1771,8 @@ msgid ""
 "Troops, to arms! These peasant scum think they are above the law. We will "
 "show them the law!"
 msgstr ""
-"Vires, ad arma! Isti rustici scelrati putant se iurem effugere posse. De iure"
-"respondebimus!"
+"Vires, ad arma! Isti rustici scelrati putant se iurem effugere posse. De "
+"iurerespondebimus!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:324
@@ -1799,7 +1799,7 @@ msgid ""
 "debt."
 msgstr ""
 "Helicromum certiorem fac nos paratos esse. Nunc sibi ad debitum reddendum "
-"est." 
+"est."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:376
