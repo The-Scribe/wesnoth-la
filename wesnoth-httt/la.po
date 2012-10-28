@@ -6763,7 +6763,7 @@ msgid ""
 "Princess, when Delfador the Great speaks of the Queen Mother, Asheviere, "
 "ordering the princes of Wesnoth to be put to death, he speaks the truth."
 msgstr ""
-"Filia Reginae, cum Delfador Magnus de Regina Ascuera iubente regulos
+"Filia Reginae, cum Delfador Magnus de Regina Ascuera iubente regulos "
 "Vesnotei interfecti dicit, vera dicit."
 
 #. [message]: speaker=Li'sar
