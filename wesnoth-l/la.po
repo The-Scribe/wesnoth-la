@@ -1822,6 +1822,9 @@ msgid ""
 "wildlands that separated the human cities surrounding Weldyn and the coastal "
 "regions of Elensefar once and for all."
 msgstr ""
+"Rex modo coronatus, centum sexaginta primo anno a Vesnotei condita, "
+"solitudines, quae inter urbes humanas ad Veldinem et maritima "
+"Ellensepharis iacent, tandem denique domabat." 
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:28
@@ -1832,6 +1835,10 @@ msgid ""
 "settlements rapidly spread. The country of Wesnoth had been carved in deed "
 "as well as in name."
 msgstr ""
+"Exercitus Vesnotei grandis, a Concilio Archimagorum Grande ipso rectus, "
+"campos omnium animalium, sive bestia orx dryadalis, speculati sunt. Civitas "
+"Ellensepharis socius regno esse solebat et coloniae cito conditae sunt. "
+"Vesnotes dicto atque facto divisa erat."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:32
@@ -1841,6 +1848,9 @@ msgid ""
 "to which human magic had grown over the years by drawing the monument "
 "directly from the earth’s living rock."
 msgstr ""
+"Pro quo monumentum in medio solitudinum sublatum. Ritu duodecim annorum "
+"ostenderat Consilium Grande quanto magia sua creverat monumento de saxis "
+"vivis recta deducendo."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:36
@@ -1850,6 +1860,9 @@ msgid ""
 "labored there, building the most formidable fortress ever conceived. It "
 "became the Stronghold of Halstead."
 msgstr ""
+"Mons immanis super campos iacet sublimis, cuius muri abscisi et terrent "
+"et incitant. Ibi plurimi rustici laborabant ut arcem optimam aedificent. "
+"Arx Halmoenis facta est."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:40
@@ -1860,6 +1873,9 @@ msgid ""
 "and the bones of the defeated crumble at the base of Halstead’s frozen waves "
 "of stone."
 msgstr ""
+"Hic custos camporum occidentium spectabat dum Vesnotes defensa plurima "
+"saecula prosperat. Nullo bello superata est, et muri numquam cecidit. Cruor "
+"hostilis turres tingit et conteruntur undis ossa victa congelatis saxeis."
 
 #. [side]: type=General, id=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:69
@@ -1894,6 +1910,7 @@ msgid ""
 "Look at how tall it is! Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
 msgstr ""
+"Quam longa est! Hi turres recta ab campo surgunt, tamquam ex terra vocati. " 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:439
