@@ -1926,12 +1926,15 @@ msgid ""
 "of Wesnoth, this land was tamed with powerful magic. Wizards of an ancient "
 "era forged the walls of Halstead from the rock below."
 msgstr ""
+"Fortasse vera dicis, nam cum Magni Reges Vesnote fuissent, haec regio magia "
+"potente domita est. Magi maiores saxa sub terra moenia Halmoenis finxerunt."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:445
 msgid ""
 "I don’t see how we can bring it down. They are already invincible in there!"
 msgstr ""
+"Nescio quomodo delere possumus. Iam iam ibi isti invicti sunt!" 
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:456
@@ -1939,6 +1942,8 @@ msgid ""
 "No, my young friend. Halstead indeed has a weakness. Among my many assets is "
 "access to a wealth of secrets few in Wesnoth are privy to."
 msgstr ""
+"Non sunt, amice. Halmoen quidem in forma deest. Ingenium meum est plurima "
+"secreta habere, quae pauci Vesnotiensium noscunt." 
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:460
@@ -1947,6 +1952,8 @@ msgid ""
 "on top has been built and rebuilt many times over the ages. It is not as "
 "indestructible as you might think."
 msgstr ""
+"Videtis montem solidam esse, in quo arx aedificata est. Sed castellum "
+"superum multum refectum est. Non arx quae invicta sit." 
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:464
@@ -1955,6 +1962,8 @@ msgid ""
 "to the central keep. Over time, after many wars, supports were required to "
 "hold up the middle."
 msgstr ""
+"Sub aedificio series canalium est quae quattor turres cum arce media "
+"coniungit. Denique firmamentis opus erat ut medium sustinerent." 
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:468
@@ -1963,6 +1972,8 @@ msgid ""
 "So... we can knock out the supports and bring down the stronghold of "
 "Halstead. Would it really work?"
 msgstr ""
+"Igitur... firmamenta delere possumus et tum arcem Halmoenis. Verene hoc "
+"succedat?"
 
 #. [message]: speaker=Baldras
 #. [message]: speaker=Helicrom
@@ -1974,16 +1985,20 @@ msgid ""
 "of the mountain and destroy its support. I am sure we will need to demolish "
 "no less than all four supports to raze the fortress."
 msgstr ""
+"Credo sic. Quaeque turris viam ad canales habet. Si ad centrum unae turris "
+"advenire possumus, unus ex nostris ad viscera montis effugere potest et "
+"firmamentum rumpere. Haud dubium est quin omnes turres destruere necesse sit "
+"ut arcem evertamus."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:478
 msgid "No, young one. Halstead indeed has a weakness."
-msgstr ""
+msgstr "Non sunt, iuvenis. Halmoen quidem in forma deest."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:482
 msgid "How do you know?"
-msgstr ""
+msgstr "Itane est?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:486
@@ -2108,7 +2123,7 @@ msgstr "Factum est."
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:773
 msgid "The stronghold of Halstead began to shake..."
-msgstr ""
+msgstr "Castellum Halmoenis tremere coeperat..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:778
