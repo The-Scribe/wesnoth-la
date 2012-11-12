@@ -2007,6 +2007,9 @@ msgid ""
 "live in Aldril after orcs massacred many in our village. We grew up around "
 "here, and we learned many things."
 msgstr ""
+"Cum adhuc puer essem, pater meus — avus tuus - patrum tuum et me ad Aldinem "
+"duxit, multis vicanorum ab orcibus necatis. Hic crescebamus et multa "
+"discbamus." 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:490
@@ -2016,12 +2019,15 @@ msgid ""
 "centuries of war, made it necessary to install supports to hold up the "
 "middle."
 msgstr ""
+"Sub aedificio series canalium est quae quattor turres cum arce media "
+"coniungit. Canalibus cretis et saeculis bellandi, firmamentis opus erat ut "
+"medium sustinerent."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:504
 msgid ""
 "I hope you’re right. In a few hours, night will fall, and we will find out."
-msgstr ""
+msgstr "Spero te vera dicere. Paucis post horis, vesperascit et inveniemus." 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:508
@@ -2029,11 +2035,13 @@ msgid ""
 "We must be cautious. Look there, a substantial orc force is also advancing "
 "on Halstead. They must think Wesnoth’s army is spread out right now."
 msgstr ""
+"Cauti debemus esse. En ubi copiae orcium quoque Halmoene aggrediuntur. Nonne "
+"putant nunc exercitum Vesnotei in terris rari esse."  
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:512
 msgid "Heh. They’re in for a surprise. This may work to our advantage."
-msgstr ""
+msgstr "Ha, istos deprehendemus. Fortasse nobis prodest."
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:527
@@ -2053,7 +2061,7 @@ msgstr "Spero se spei fore. Res sane haud magis subitae factae sint."
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:546
 msgid "Riders approach from the northwest! Stand fast, men."
-msgstr ""
+msgstr "Ecce equites ab aquilone et occidente! Resistite, viri."
 
 #. [unit]: type=Paladin, id=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:555
@@ -2080,6 +2088,8 @@ msgid ""
 "Amazing. Lord Maddock sent his house guards... his finest troops! Elensefar "
 "must be defenseless now. More hinges on this battle than I thought."
 msgstr ""
+"Babae. Dominus Madocius bucellarios misit... optimos milites! Nonne nunc "
+"indefensa est Ellensephar. Hoc est proelium de quo multa pendeant."
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:592
@@ -2087,18 +2097,22 @@ msgid ""
 "Baldras, Gwydion is Lord Maddock’s son. This battle isn’t just about Annuvin "
 "anymore."
 msgstr ""
+"Baldras, Guidius filius Madocii est. Iam non se curae est ut Annuviniam "
+"defendant."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:623
 msgid ""
 "That afternoon, another advance element of the main Wesnoth army arrived..."
 msgstr ""
+"Alia, in hoc die, cohors de exeritu Vesnotei principe advenit..."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:693
 msgid ""
 "I think... I think they’re trying to storm Halstead itself... the fools!"
 msgstr ""
+"Puto... puto se Halmoenem ipsam expugnare conari... qui caudices!" 
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:710
@@ -2113,7 +2127,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:736
 msgid "After about an hour..."
-msgstr ""
+msgstr "Fere una post hora..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:746
