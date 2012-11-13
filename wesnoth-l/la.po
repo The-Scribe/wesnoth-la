@@ -2110,12 +2110,12 @@ msgstr ""
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:707
 msgid "They have breached the fortress gate! Repulse them!"
-msgstr ""
+msgstr "Isti portas castelli irruperunt! Se depellite!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:723
 msgid "I’m inside the tower! I’m going down to the catacombs — cover me."
-msgstr ""
+msgstr "Turrim intra ii! Ad canales eo — me protege."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:733
@@ -2135,7 +2135,7 @@ msgstr "Castellum Halmoenis tremere coeperat..."
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:775
 msgid "We cannot stay here. The fortress has started to collapse!"
-msgstr ""
+msgstr "Hic manere non possumus; castellum corruere incipit!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:806
@@ -2150,11 +2150,14 @@ msgid ""
 "sides, while the remainder came to rest several hundred feet below ground, "
 "in the bowels of the hollowed-out mountain."
 msgstr ""
+"Cum clamore tonitrus flamine pulveris vasto, vasta moles saxorum et materiae "
+"concidere in se. Pars de arduis praecipitavit montis, pars visceribus in "
+"terram penitus cecidit cavis." 
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:835
 msgid "No one inside the fortress would make it out alive."
-msgstr ""
+msgstr "Nemo qui castellum inerat vixit."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:904
@@ -2226,7 +2229,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1045
 msgid "Your reign of terror is over, General."
-msgstr "Regnum terroris tui finitus est, Legate."
+msgstr "Regnum terroris tui finitum est, Legate."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1050
