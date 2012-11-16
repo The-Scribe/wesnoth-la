@@ -2147,7 +2147,7 @@ msgstr "Hic manere non possumus; castellum corruere incipit!"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:809
 msgid "I think it’s working! Everybody get clear <i>now</i>!"
-msgstr ""
+msgstr "Puto res succedere! Iam iam omnes pedem referte!""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:833
@@ -2173,11 +2173,13 @@ msgid ""
 "arrived from Weldyn. The battle was soon finished. Every last man from the "
 "province of Annuvin was executed."
 msgstr ""
+"Pugnatum est multas dies fortiter, sed plerique copiarum Ascuerae a Veldine "
+"advenerunt. Mox proelium confectum est. Dederunt ex Annuvinia omnes poenam."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:937
 msgid "Men, help me out of here! I am trapped under this rubble."
-msgstr ""
+msgstr "Viri, me subvenite! ego his ruinis opprimor."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:941
@@ -2185,11 +2187,13 @@ msgid ""
 "No one was able to get to Baldras in time. He and many of his companions "
 "died that day beneath the stronghold of Halstead."
 msgstr ""
+"Nemo prius Baldradem adire potebat quam ipse multique ex suis sub monte "
+"Halmoenis mortui sunt." 
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:946
 msgid "I hope this sacrifice is not in vain... but we will never know."
-msgstr ""
+msgstr "Spero hoc non frustra fore... sed numquam sciemus."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:952
@@ -2203,6 +2207,8 @@ msgid ""
 "there would be no help for the villagers, ground beneath the wheels of "
 "Asheviere’s wrath."
 msgstr ""
+"Fortuna rebellionis de hac victoria pendebat; sed sive vincerent sive "
+"perderent, nihil vicanis, fractis sub rotis irae Ascuerae, fuit spei." 
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:975
@@ -2217,7 +2223,7 @@ msgstr "VAE!"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:983
 msgid "I promised your father I would watch after you... and I failed."
-msgstr ""
+msgstr "Patri tuo promisi me te custoditurum esse... et defui."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:987
