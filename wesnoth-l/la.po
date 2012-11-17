@@ -1248,7 +1248,7 @@ msgid ""
 "Gentlemen, please come this way and follow the path into the forest. Our "
 "leader is anxious to meet you."
 msgstr ""
-"Vires, amabo, hic agite, sequimini semitam in silvam. Dux mostrum vos videre "
+"Viri, amabo, hic agite, sequimini semitam in silvam. Dux mostrum vos videre "
 "cupit."
 
 #. [message]: speaker=second_unit
@@ -2147,7 +2147,7 @@ msgstr "Hic manere non possumus; castellum corruere incipit!"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:809
 msgid "I think it’s working! Everybody get clear <i>now</i>!"
-msgstr "Puto res succedere! Iam iam omnes pedem referte!""
+msgstr "Puto res succedere! Iam iam omnes pedem referte!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:833
@@ -2231,6 +2231,8 @@ msgid ""
 "But we are so close to the end. We must finish this. I am sorry you will not "
 "be able to enjoy our freedom. Goodbye, Harper."
 msgstr ""
+"At non procul est quin vincamus. Huic finiri necesse est. Me paenitet "
+"numquam vos libertate gaudentes videre. Harper, vale."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1001
@@ -2238,11 +2240,12 @@ msgid ""
 "Carry on, my friends. Fighting by your side is the most honorable thing I "
 "have done..."
 msgstr ""
+"Amici, pergite. Vobiscum in acie tua stare me virum honoratissimum fecit..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1048
 msgid "Your reign of terror is over, General."
-msgstr "Regnum terroris tui finitum est, Legate."
+msgstr "Regnum terroris tuum finitum est, Legate."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1053
@@ -2251,25 +2254,30 @@ msgid ""
 "small victory today is but a reprieve from the unimaginable pain you will "
 "suffer when the full force of her wrath descends upon you."
 msgstr ""
+"Cum successu numquam Ascueram resistetis, auctoritas enim tam magna est... "
+"Haec parva victoria tantum affert solaciola miseriae quae in te incidet cum "
+"ipsa vult."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1064
 msgid ""
 "This was no small victory. You underestimate the power of love for freedom."
 msgstr ""
+"Haec victoria non parva erat. Male potestatem desideri libertatis existimas."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1069
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... Uungh..."
 msgstr ""
+"Tu... crudelitatem et ambitionem Reginae... male existimas... Ah."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1076
 msgid ""
 "Small victory? Bah! Now we will raze this fortress and bury it in the earth "
 "from whence it came."
-msgstr ""
+msgstr "Victoria parva? Fu! Nunc hoc castellum delebimus et in terra sepelire."
 
 #. [scenario]: id=09_Epilogue
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:4
@@ -2282,6 +2290,7 @@ msgid ""
 "The rest of the battle was a blur. The shock of what had happened stunned "
 "everybody."
 msgstr ""
+"Ceterum proelii incertum est, nam omnes eventis stupebant."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:17
@@ -2290,6 +2299,9 @@ msgid ""
 "night. The spectacle of Halstead’s destruction stunned them into a daze that "
 "only slowly wore off as they made their way north to and past Elensefar."
 msgstr ""
+"Baldras suique clam in noctu campos occidentes Vesnotei fugerunt. Stuporem "
+"spectaculum exitii Halmoenis urgebat qui ut praeter Ellensepharem eunt, "
+"minuebat paulatim."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:20
@@ -2299,6 +2311,9 @@ msgid ""
 "not heard from again. Baldras thought this odd behavior when he heard about "
 "it."
 msgstr ""
+"Equites Ellenses exercitum orcium, ita ut parvus erat, trans Magnum Flumen "
+"pulserunt, qui se in fugam ad rurem sparserunt. Cum Baldras audivit hoc "
+"novissimum esse putabat."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:23
@@ -2309,6 +2324,10 @@ msgid ""
 "columns. Soldiers dropped dead where they stood, slain by unseen assassins. "
 "Fear of an undead menace spread through the ranks."
 msgstr ""
+"Prodigia erant ut exercitus Ascuerae ruinis Halmoenis appropinquat; homines "
+"cotidie evanescere; alios trucidatos inveniri; calamitates agmina capere; "
+"milites ita ut erat cadere, ab sicariis incertis interfectos. Metus pestis "
+"inmortuum exercitum oppressit."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:26
