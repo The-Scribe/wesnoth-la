@@ -2338,6 +2338,10 @@ msgid ""
 "entire countryside was cursed. He quickly retreated to the traditional "
 "border and set up strong defenses against the west."
 msgstr ""
+"Cum exercitus Vesnotei ruinas castelli magni Halmoenis invenit, obruti sunt. "
+"Stupor novae res cum terrore inviso persequente miscebat ut imperator "
+"Ascuerae crederet totam rurem detestatam fuisse. Cito ad fines solitos "
+"praesidia contra occidentem fortia positum pedem rettulit." 
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:29
@@ -2347,6 +2351,8 @@ msgid ""
 "Maddock’s men were successfully using tactics Baldras had mastered and used "
 "during his resistance."
 msgstr ""
+"Baldras vix Flumen Magnum transierat cum fama noctivagorum suos surrepebat. "
+"Tristis putabat vires Madocii consiliis a Baldrade captis uti cum successu." 
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:32
@@ -2355,6 +2361,9 @@ msgid ""
 "ground. In a panic, they raced through the forest to Delwyn. It was likewise "
 "devastated. However, they did find one clue as to what happened..."
 msgstr ""
+"Rustici tamquam proscripti tandem Dalbenum adierunt, at omnino ustum est. "
+"Horrore persequente per silvam ad Delvynum celeraverunt, qui item populatum "
+"est. Nihilominus aliquid indicio fuit...
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:36
@@ -2362,6 +2371,8 @@ msgid ""
 "... a grimy note nailed to a charred post that read, <i>“Baldras, You would "
 "have been proud. We gave ’em hell. But in the end, it wasn’t enough.”</i>"
 msgstr ""
+"... epistulam maculosam in poste fixam, in qua scribitur, <i>“Baldras, "
+"superbus fuisset. Pro virili parti pugnavimus, sed non satis fuit.”</i>" 
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:40
@@ -2369,6 +2380,8 @@ msgid ""
 "<i>“We fled like criminals in the night, but we made sure that no one would "
 "harass us anymore.”</i>"
 msgstr ""
+"<i>“Noctu ut damnati fugimus, sed operam dedimus ne quis etiam nos "
+"vexeret.”</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:44
@@ -2376,6 +2389,8 @@ msgid ""
 "<i>“If you wish to find us, head southwest. When you reach the land’s end, "
 "just keep going. See you in the Three Sisters, old friend. ― Relana”</i>"
 msgstr ""
+"<i>“Si nos invenire vis, i ad boream et occidentem. Cum litus attingis, "
+"perge. Sodalis, nos in Tribus Sororibus exspectamus. ― Relana”</i>" 
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Liberty/units/Bone_Knight.cfg:5
@@ -2389,6 +2404,8 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Hi, olim bellatores magni, in equis osseis sedentes magia mala a terra missi "
+"sunt ut pavorem atque exitium dare."
 
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Bone_Knight.cfg:31
@@ -2415,6 +2432,9 @@ msgid ""
 "pick up a good deal of the Knight’s power, including the ability to command "
 "underlings."
 msgstr ""
+"Interdum bellatores imperatoresque maximi cum odio detestati, Duces Mortis "
+"redeunt. Comites Mortis illos servant dum satis potestatis adipiscuntur ut "
+"Duces Mortis fiant."
 
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Death_Squire.cfg:32
