@@ -272,7 +272,7 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:218
 #: data/core/units/dwarves/Runemaster.cfg:5
 msgid "Dwarvish Runemaster"
-msgstr "Pumilus Runipotens"
+msgstr "Pumilio Runipotens"
 
 #. [unit_type]: id=Dwarvish Runemaster, race=dwarf
 #. [unit_type]: id=Dwarvish Rune Lord, race=dwarf
@@ -663,7 +663,7 @@ msgstr ""
 #. [unit_type]: id=Drake Flare, race=drake
 #: data/core/units/drakes/Flare.cfg:4
 msgid "Drake Flare"
-msgstr "Flamma Draculeus"
+msgstr "Flamma Draculea"
 
 #. [unit_type]: id=Drake Flare, race=drake
 #: data/core/units/drakes/Flare.cfg:25
@@ -803,7 +803,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:4
 msgid "Dwarvish Arcanister"
-msgstr "Pumilus Arcanifer"
+msgstr "Pumilio Arcanifer"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:31
@@ -818,7 +818,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
 #: data/core/units/dwarves/Berserker.cfg:4
 msgid "Dwarvish Berserker"
-msgstr "Pumilus Debacchans"
+msgstr "Pumilio Debacchans"
 
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
 #: data/core/units/dwarves/Berserker.cfg:19
@@ -838,7 +838,7 @@ msgstr "insania"
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #: data/core/units/dwarves/Dragonguard.cfg:4
 msgid "Dwarvish Dragonguard"
-msgstr "Pumilus Draconigena"
+msgstr "Pumilio Draconigena"
 
 #. [unit_type]: id=Dwarvish Explorer, race=dwarf
 #: data/core/units/dwarves/Explorer.cfg:4
@@ -959,18 +959,18 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Thunderer, race=dwarf
 #: data/core/units/dwarves/Thunderer.cfg:4
 msgid "Dwarvish Thunderer"
-msgstr "Pumilus Tonans"
+msgstr "Pumilio Tonans"
 
 #. [unit_type]: id=Dwarvish Thunderguard, race=dwarf
 #: data/core/units/dwarves/Thunderguard.cfg:4
 msgid "Dwarvish Thunderguard"
-msgstr "Pumilua Altitonans"
+msgstr "Pumilio Altitonans"
 
 # Nanus Debacchans?
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:4
 msgid "Dwarvish Ulfserker"
-msgstr "Pumilua Bacchans"
+msgstr "Pumilio Bacchans"
 
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:20
