@@ -37,14 +37,12 @@ msgstr "Exitium servatorum affirmare"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:18
-#, fuzzy
 #| msgid "Mouse Scrolling"
 msgid "Mouse scrolling"
 msgstr "Vagatio muris"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:25
-#, fuzzy
 msgid "Middle-click scrolling"
 msgstr "Vagatio cum medio globulo"
 
@@ -173,10 +171,8 @@ msgstr ""
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:164
-#, fuzzy
-#| msgid "Compressed Saves"
 msgid "Compress savegames using bzip2"
-msgstr "Servatos bzip2 utiendo breviare"
+msgstr "Servatos bzip2 utendo breviare"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:172
@@ -984,9 +980,8 @@ msgstr "Lituus gerulo motum celerem dabit."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:462
-#, fuzzy
 msgid "Only magical beings can wield such an object."
-msgstr "Tantum animalia magica tali re uti possunt."
+msgstr "Tantum animalia magica tali uti possunt."
 
 #: data/core/macros/items.cfg:512
 msgid "Only the mermen can use this item!"
@@ -1011,9 +1006,8 @@ msgstr "Tridens Tempestatum"
 
 #. [object]
 #: data/core/macros/items.cfg:517
-#, fuzzy
 msgid "This trident allows a merman to shoot electric bolts at his enemies!"
-msgstr "Hic trident Nereidem permittit fulmina in hostes conicere."
+msgstr "Hoc tridente Nereid fulmina in hostes conicere potest!"
 
 #. [effect]: type=fire
 #: data/core/macros/items.cfg:521
@@ -2320,14 +2314,14 @@ msgstr "<i>― Populus Vesnotei</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:44
-#, fuzzy
 msgid ""
 "<i>Lawful</i> units fight better by day, and <i>chaotic</i> units fight "
 "better at night. <i>Neutral</i> units are unaffected by the time of day. The "
 "rare <i>liminal</i> units fight best during twilight."
 msgstr ""
-"Filii lucis die melius pugnant et filii tenebrarum melius noctu. Filii "
-"crepusculi aeque pugnant die et noctu."
+"Actores <i>diurni</i> diu melius pugnant et <i>nocturni</i> melius noctu. "
+"Actores </i>medii</i> diu noctuque aequo sunt. Actores <i>ancipites</i> "
+"crepusculo diluculoque valent."
 
 #. [tip]
 #: data/hardwired/tips.cfg:45
@@ -6083,7 +6077,7 @@ msgstr "Unitas haec lentificatus est. Damnum bipartetur cum oppugnat."
 
 #: src/reports.cpp:312
 msgid "poisoned: "
-msgstr "veneni: "
+msgstr "venenati: "
 
 #: src/reports.cpp:313
 #, fuzzy
