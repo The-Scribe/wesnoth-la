@@ -1823,8 +1823,8 @@ msgid ""
 "regions of Elensefar once and for all."
 msgstr ""
 "Rex modo coronatus, centum sexaginta primo anno a Vesnotei condita, "
-"solitudines, quae inter urbes humanas ad Veldinem et maritima "
-"Ellensepharis iacent, tandem denique domabat."
+"solitudines, quae inter urbes humanas ad Veldinem et maritima Ellensepharis "
+"iacent, tandem denique domabat."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:28
@@ -1860,9 +1860,9 @@ msgid ""
 "labored there, building the most formidable fortress ever conceived. It "
 "became the Stronghold of Halstead."
 msgstr ""
-"Mons immanis super campos iacet sublimis, cuius muri abscisi et terrent "
-"et incitant. Ibi plurimi rustici laborabant ut arcem optimam aedificent. "
-"Arx Halmoenis facta est."
+"Mons immanis super campos iacet sublimis, cuius muri abscisi et terrent et "
+"incitant. Ibi plurimi rustici laborabant ut arcem optimam aedificent. Arx "
+"Halmoenis facta est."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:40
@@ -1926,8 +1926,7 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:443
 msgid ""
 "I don’t see how we can bring it down. They are already invincible in there!"
-msgstr ""
-"Nescio quomodo delere possumus. Iam iam ibi isti invicti sunt!"
+msgstr "Nescio quomodo delere possumus. Iam iam ibi isti invicti sunt!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:454
@@ -2097,15 +2096,13 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:620
 msgid ""
 "That afternoon, another advance element of the main Wesnoth army arrived..."
-msgstr ""
-"Alia, in hoc die, cohors de exeritu Vesnotei principe advenit..."
+msgstr "Alia, in hoc die, cohors de exeritu Vesnotei principe advenit..."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:690
 msgid ""
 "I think... I think they’re trying to storm Halstead itself... the fools!"
-msgstr ""
-"Puto... puto se Halmoenem ipsam expugnare conari... qui caudices!"
+msgstr "Puto... puto se Halmoenem ipsam expugnare conari... qui caudices!"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:707
@@ -2262,8 +2259,7 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1066
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... Uungh..."
-msgstr ""
-"Tu... crudelitatem et ambitionem Reginae... male existimas... Ah."
+msgstr "Tu... crudelitatem et ambitionem Reginae... male existimas... Ah."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1073
@@ -2282,8 +2278,7 @@ msgstr "Libertas — Epilogus"
 msgid ""
 "The rest of the battle was a blur. The shock of what had happened stunned "
 "everybody."
-msgstr ""
-"Ceterum proelii incertum est, nam omnes eventis stupebant."
+msgstr "Ceterum proelii incertum est, nam omnes eventis stupebant."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:17
