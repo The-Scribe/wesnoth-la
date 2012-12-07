@@ -844,8 +844,7 @@ msgstr "Victoriam celerem"
 msgid ""
 "With this golden coin, I wish that this battle end in a swift and safe "
 "victory."
-msgstr ""
-"Hoc aureo opto ut celeriter et tuto vincamus."
+msgstr "Hoc aureo opto ut celeriter et tuto vincamus."
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:38
@@ -1988,7 +1987,7 @@ msgid ""
 "Neutral units are unaffected by day and night, fighting equally well under "
 "both conditions."
 msgstr ""
-"Dies et nox actores medios non adficit, quia ambis temporibus in aequo sunt." 
+"Dies et nox actores medios non adficit, quia ambis temporibus in aequo sunt."
 
 #. [language]
 #: data/english.cfg:13
@@ -2192,7 +2191,7 @@ msgid ""
 "if you coddle him too much he may be too weak to survive future battles."
 msgstr ""
 "Fac ut dux usum adipiscatur! Necesse est eum tueri, sed si nimis a malis "
-"tegas, debilior fiat quam ut superstes proeliis futuris sit." 
+"tegas, debilior fiat quam ut superstes proeliis futuris sit."
 
 #. [tip]
 #: data/hardwired/tips.cfg:5 data/hardwired/tips.cfg:137
@@ -2236,7 +2235,7 @@ msgid ""
 "you can get some high-level troops sooner."
 msgstr ""
 "Quibus <i>docti</i> sint minus punctorum usus opus est ut producatur. Si "
-"prima militia illis ictus fatalis detur mox copias optimas adipiscaris." 
+"prima militia illis ictus fatalis detur mox copias optimas adipiscaris."
 
 #. [tip]
 #: data/hardwired/tips.cfg:13
@@ -2341,8 +2340,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:48
 msgid ""
 "An otherwise sound plan can fail if you attack at the wrong time of day."
-msgstr ""
-"Si in mala hora pugnes consilium cetera bonum desit." 
+msgstr "Si in mala hora pugnes consilium cetera bonum desit."
 
 #. [tip]
 #: data/hardwired/tips.cfg:49 data/hardwired/tips.cfg:73
@@ -4829,7 +4827,8 @@ msgstr "<var>=<variabile>"
 msgid "Set a scenario variable."
 msgstr "Variabile scaenarii ponere. "
 
-#: src/menu_evenDomine mi, haec unitas mox gradum superiorem attinget! Visne vere $noun ts.cpp:2626
+#: src/menu_evenDomine mi, haec unitas mox gradum superiorem attinget! Visne
+#: vere $noun ts.cpp:2626
 msgid "<var>"
 msgstr "<var>"
 
