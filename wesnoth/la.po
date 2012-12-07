@@ -2318,6 +2318,8 @@ msgid ""
 "Don’t neglect to earn your leader experience! You need to keep him safe, but "
 "if you coddle him too much he may be too weak to survive future battles."
 msgstr ""
+"Fac ut dux usum adipiscatur! Necesse est eum tueri, sed si nimis a malis "
+"tegas, debilior fiat quam ut superstes proeliis futuris sit."
 
 #. [tip]
 #: data/hardwired/tips.cfg:5 data/hardwired/tips.cfg:137
@@ -2360,6 +2362,8 @@ msgid ""
 "level up. Early in a campaign, try to give killing blows to these units so "
 "you can get some high-level troops sooner."
 msgstr ""
+"Quibus <i>docti</i> sint minus punctorum usus opus est ut producatur. Si "
+"prima militia illis ictus fatalis detur mox copias optimas adipiscaris."
 
 #. [tip]
 #: data/hardwired/tips.cfg:13
@@ -2374,6 +2378,9 @@ msgid ""
 "will restrict it to one hex of movement in any direction. Unfortunately, you "
 "must completely surround skirmishers to immobilize them."
 msgstr ""
+"Consilium circmeundi potentissimum est, contra celeres potissimum. Duo "
+"actorum ponendo circa hostem is in hexagona continentia concludetur. Sed "
+"tamen insidiatores undique circumire necesse est ut arceantur."
 
 #. [tip]
 #: data/hardwired/tips.cfg:17 data/hardwired/tips.cfg:129
@@ -2461,7 +2468,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:48
 msgid ""
 "An otherwise sound plan can fail if you attack at the wrong time of day."
-msgstr ""
+msgstr "Si in mala hora pugnes consilium cetera bonum desit."
 
 #. [tip]
 #: data/hardwired/tips.cfg:49 data/hardwired/tips.cfg:73
@@ -2679,10 +2686,9 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:116
-#, fuzzy
 msgid ""
 "Do not be afraid to retreat and regroup; it is often the key to victory."
-msgstr "Noli timere regredi et redisponere, saepe clavis victoriae est."
+msgstr "Noli timere regredi et denuo disponere; saepe victoriam confirmat."
 
 #. [tip]
 #: data/hardwired/tips.cfg:117
@@ -3030,11 +3036,11 @@ msgstr "insanabilis"
 
 #: data/lua/wml/objectives.lua:50 src/multiplayer_connect.cpp:1702
 msgid "Victory:"
-msgstr "Victoria: "
+msgstr "Victoria:"
 
 #: data/lua/wml/objectives.lua:51
 msgid "Defeat:"
-msgstr "Clades: "
+msgstr "Clades:"
 
 #: data/lua/wml/objectives.lua:52
 msgid "Gold carryover:"
@@ -3042,7 +3048,7 @@ msgstr "Aurei retenturi:"
 
 #: data/lua/wml/objectives.lua:53
 msgid "Notes:"
-msgstr "Addenda: "
+msgstr "Addenda:"
 
 #: data/lua/wml/objectives.lua:71
 msgid "(%d turns left)"
@@ -3054,14 +3060,14 @@ msgstr "(haec vicis reliqua)"
 
 #: data/lua/wml/objectives.lua:126
 msgid "%d%% of gold carried over to the next scenario."
-msgstr ""
+msgstr "%d%% aureorum ad scaenarium secundum transferetur."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
 #: data/scenario-test.cfg:466 src/dialogs.cpp:652
 #: src/multiplayer_create.cpp:95
 msgid "OK"
-msgstr "Confirmare"
+msgstr "Affirmare"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
@@ -3175,7 +3181,7 @@ msgstr "motus"
 #: data/themes/default.cfg:470 data/themes/experimental.cfg:415
 #: data/themes/widescreen.cfg:539 data/themes/widescreen.cfg:665
 msgid "statuspanel^terrain def."
-msgstr "def. terrae"
+msgstr "defensio"
 
 #. [label]: id=label-mp
 #: data/themes/dfool.cfg:258
@@ -3217,7 +3223,7 @@ msgstr "Reponere"
 #: data/themes/macros.cfg:95
 #, fuzzy
 msgid "reset to beginning"
-msgstr "movere ad initium"
+msgstr "in initium reponere"
 
 #. [menu]: id=button-nextturn, type=image
 #: data/themes/macros.cfg:108
@@ -3310,25 +3316,25 @@ msgstr ""
 msgid "Friendly unit sighted"
 msgid_plural "$friends friendly units sighted"
 msgstr[0] "Actor socius visus"
-msgstr[1] "$friends actores socii visi "
+msgstr[1] "$friends actores de sociis visi "
 
 #: src/actions.cpp:2780
 msgid "Enemy unit sighted!"
 msgid_plural "$enemies enemy units sighted!"
-msgstr[0] "Actor hostium visus!"
-msgstr[1] "$enemies actores hostium visi!"
+msgstr[0] "Actor de hostibus visus!"
+msgstr[1] "$enemies actores de hostibus visi!"
 
 #: src/actions.cpp:2785
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
 msgid_plural "$friends friendly"
 msgstr[0] "unus socius"
-msgstr[1] "$friends socii"
+msgstr[1] "$friends de sociis"
 
 #: src/actions.cpp:2786
 msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
-msgstr[0] "unus hostum"
-msgstr[1] "$enemies hostum"
+msgstr[0] "unus de hostibus"
+msgstr[1] "$enemies de hostibus"
 
 #: src/actions.cpp:2787
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
@@ -3376,7 +3382,7 @@ msgstr "Copiae"
 
 #: src/addon/manager.cpp:457
 msgid "addon_type^Other"
-msgstr "Alius"
+msgstr "Alia"
 
 #: src/addon/manager.cpp:459
 msgid "addon_type^(unknown)"
@@ -3437,7 +3443,7 @@ msgstr "Adiunctum inauguratum est."
 
 #: src/addon/manager.cpp:649
 msgid "Add-on Installed"
-msgstr "Appendicem Inpositae"
+msgstr "Appendicem Impositae"
 
 #: src/addon/manager.cpp:749 src/addon/manager.cpp:935
 #: src/addon/manager.cpp:1164 src/dialogs.cpp:609 src/menu_events.cpp:215
@@ -3528,15 +3534,15 @@ msgstr ""
 
 #: src/addon/manager.cpp:935
 #, fuzzy
-#| msgid "New version"
+#| msgid "New Version"
 msgid "New version"
-msgstr "Versio novus"
+msgstr "Versio Nova"
 
 #: src/addon/manager.cpp:935
 #, fuzzy
-#| msgid "Old version"
+#| msgid "Old Version"
 msgid "Old version"
-msgstr "Versio antiquus"
+msgstr "Versio Prisca"
 
 #: src/addon/manager.cpp:987
 msgid "Update add-ons"
@@ -3548,9 +3554,9 @@ msgstr ""
 
 #: src/addon/manager.cpp:1002
 #, fuzzy
-#| msgid "Update all"
+#| msgid "Update All"
 msgid "Update all"
-msgstr "Omnia renovare"
+msgstr "Omnia Renovare"
 
 #: src/addon/manager.cpp:1040 src/addon/manager.cpp:1057
 #: src/addon/manager.cpp:1347
@@ -3598,7 +3604,7 @@ msgstr ""
 #: src/addon/manager.cpp:1102 src/addon/manager.cpp:1329
 #: src/addon/manager.cpp:1422 src/multiplayer.cpp:265
 msgid "Confirm"
-msgstr "Confirmare"
+msgstr "Affirmare"
 
 #: src/addon/manager.cpp:1129
 msgid "Connecting..."
@@ -6569,19 +6575,14 @@ msgstr ""
 #~ msgid "You retrieve $amount_gold pieces of gold."
 #~ msgstr "$amount_gold aureorum recepisti."
 
-#, fuzzy
 #~ msgid "cured"
-#~ msgstr "sanat"
+#~ msgstr "sanatus"
 
-#, fuzzy
-#~| msgid "female^cures"
 #~ msgid "female^cured"
-#~ msgstr "Filia "
+#~ msgstr "sanata"
 
-#, fuzzy
-#~| msgid "Connecting to Server..."
 #~ msgid "Connecting to $server_address|..."
-#~ msgstr "Ad Servatrum Applicans..."
+#~ msgstr "Ad $server_address Applicans..."
 
 #, fuzzy
 #~| msgid "Downloading add-on: $addon_title|..."
@@ -6603,15 +6604,11 @@ msgstr ""
 #~ msgid "addon_type^MP modification"
 #~ msgstr "Factio PL"
 
-#, fuzzy
-#~| msgid "Add-on Installed"
 #~ msgid "addon_state^Not installed"
-#~ msgstr "Appendicem Inpositae"
+#~ msgstr "Non imposita"
 
-#, fuzzy
-#~| msgid "Add-on Installed"
 #~ msgid "addon_state^Installed"
-#~ msgstr "Appendicem Inpositae"
+#~ msgstr "Imposita"
 
 #, fuzzy
 #~| msgid "addon_type^(unknown)"
@@ -6622,8 +6619,6 @@ msgstr ""
 #~ msgid "Broken Dependencies"
 #~ msgstr "Impostationes"
 
-#, fuzzy
-#~| msgid "Do you want to continue?"
 #~ msgid "Do you really wish to continue?"
 #~ msgstr "Visne pergere?"
 
@@ -6635,6 +6630,9 @@ msgstr ""
 #, fuzzy
 #~ msgid "There are no add-ons matching the specified criteria on this server."
 #~ msgstr "Non sunt adiuncta ad manum quae tractari possunt ex hoc moderatro."
+
+#~ msgid "filter^Options"
+#~ msgstr "Electiones"
 
 #, fuzzy
 #~ msgid "The add-on '$addon_title|' has been successfully updated."
