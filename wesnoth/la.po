@@ -6020,7 +6020,7 @@ msgstr ""
 "Hic actor venenatus est. VIII PS invicem perdet donec aut remedium invenire "
 "potest aut in viculo aut ab actore amico qui ‘antidotum’ possidit.\n"
 "\n"
-"Actoribus veneno solo interfici non licet. PS modo I attingere possunt.\n"
+"Actoribus veneno solo interfici non licet. PS modo I attingere possunt."
 
 #: src/reports.cpp:317
 msgid "petrified: "
