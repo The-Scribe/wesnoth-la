@@ -1824,7 +1824,7 @@ msgid ""
 msgstr ""
 "Rex modo coronatus, centum sexaginta primo anno a Vesnotei condita, "
 "solitudines, quae inter urbes humanas ad Veldinem et maritima "
-"Ellensepharis iacent, tandem denique domabat." 
+"Ellensepharis iacent, tandem denique domabat."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:28
@@ -1910,7 +1910,7 @@ msgid ""
 "Look at how tall it is! Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
 msgstr ""
-"Quam longa est! Hi turres recta ab campo surgunt, tamquam ex terra vocati. " 
+"Quam longa est! Hi turres recta ab campo surgunt, tamquam ex terra vocati. "
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:439
@@ -1927,7 +1927,7 @@ msgstr ""
 msgid ""
 "I don’t see how we can bring it down. They are already invincible in there!"
 msgstr ""
-"Nescio quomodo delere possumus. Iam iam ibi isti invicti sunt!" 
+"Nescio quomodo delere possumus. Iam iam ibi isti invicti sunt!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:454
@@ -1936,7 +1936,7 @@ msgid ""
 "access to a wealth of secrets few in Wesnoth are privy to."
 msgstr ""
 "Non sunt, amice. Halmoen quidem in forma deest. Ingenium meum est plurima "
-"secreta habere, quae pauci Vesnotiensium noscunt." 
+"secreta habere, quae pauci Vesnotiensium noscunt."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:458
@@ -1946,7 +1946,7 @@ msgid ""
 "indestructible as you might think."
 msgstr ""
 "Videtis montem solidam esse, in quo arx aedificata est. Sed castellum "
-"superum multum refectum est. Non arx quae invicta sit." 
+"superum multum refectum est. Non arx quae invicta sit."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:462
@@ -1956,7 +1956,7 @@ msgid ""
 "hold up the middle."
 msgstr ""
 "Sub aedificio series canalium est quae quattor turres cum arce media "
-"coniungit. Denique firmamentis opus erat ut medium sustinerent." 
+"coniungit. Denique firmamentis opus erat ut medium sustinerent."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:466
@@ -2002,7 +2002,7 @@ msgid ""
 msgstr ""
 "Cum adhuc puer essem, pater meus — avus tuus - patrum tuum et me ad Aldinem "
 "duxit, multis vicanorum ab orcibus necatis. Hic crescebamus et multa "
-"discbamus." 
+"discbamus."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:488
@@ -2020,7 +2020,7 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:502
 msgid ""
 "I hope you’re right. In a few hours, night will fall, and we will find out."
-msgstr "Spero te vera dicere. Paucis post horis, vesperascit et inveniemus." 
+msgstr "Spero te vera dicere. Paucis post horis, vesperascit et inveniemus."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:506
@@ -2029,7 +2029,7 @@ msgid ""
 "on Halstead. They must think Wesnoth’s army is spread out right now."
 msgstr ""
 "Cauti debemus esse. En ubi copiae orcium quoque Halmoene aggrediuntur. Nonne "
-"putant nunc exercitum Vesnotei in terris rari esse."  
+"putant nunc exercitum Vesnotei in terris rari esse."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:510
@@ -2105,7 +2105,7 @@ msgstr ""
 msgid ""
 "I think... I think they’re trying to storm Halstead itself... the fools!"
 msgstr ""
-"Puto... puto se Halmoenem ipsam expugnare conari... qui caudices!" 
+"Puto... puto se Halmoenem ipsam expugnare conari... qui caudices!"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:707
@@ -2152,7 +2152,7 @@ msgid ""
 msgstr ""
 "Cum clamore tonitrus flamine pulveris vasto, vasta moles saxorum et materiae "
 "concidere in se. Pars de arduis praecipitavit montis, pars visceribus in "
-"terram penitus cecidit cavis." 
+"terram penitus cecidit cavis."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:835
@@ -2181,7 +2181,7 @@ msgid ""
 "died that day beneath the stronghold of Halstead."
 msgstr ""
 "Nemo prius Baldradem adire potebat quam ipse multique ex suis sub monte "
-"Halmoenis mortui sunt." 
+"Halmoenis mortui sunt."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:943
@@ -2201,7 +2201,7 @@ msgid ""
 "Asheviere’s wrath."
 msgstr ""
 "Fortuna rebellionis de hac victoria pendebat; sed sive vincerent sive "
-"perderent, nihil vicanis, fractis sub rotis irae Ascuerae, fuit spei." 
+"perderent, nihil vicanis, fractis sub rotis irae Ascuerae, fuit spei."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:972
@@ -2334,7 +2334,7 @@ msgstr ""
 "Cum exercitus Vesnotei ruinas castelli magni Halmoenis invenit, obruti sunt. "
 "Stupor novae res cum terrore inviso persequente miscebat ut imperator "
 "Ascuerae crederet totam rurem detestatam fuisse. Cito ad fines solitos "
-"praesidia contra occidentem fortia positum pedem rettulit." 
+"praesidia contra occidentem fortia positum pedem rettulit."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:29
@@ -2345,7 +2345,7 @@ msgid ""
 "during his resistance."
 msgstr ""
 "Baldras vix Flumen Magnum transierat cum fama noctivagorum suos surrepebat. "
-"Tristis putabat vires Madocii consiliis a Baldrade captis uti cum successu." 
+"Tristis putabat vires Madocii consiliis a Baldrade captis uti cum successu."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:32
@@ -2356,7 +2356,7 @@ msgid ""
 msgstr ""
 "Rustici tamquam proscripti tandem Dalbenum adierunt, at omnino ustum est. "
 "Horrore persequente per silvam ad Delvynum celeraverunt, qui item populatum "
-"est. Nihilominus aliquid indicio fuit...
+"est. Nihilominus aliquid indicio fuit..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:36
@@ -2365,7 +2365,7 @@ msgid ""
 "have been proud. We gave ’em hell. But in the end, it wasn’t enough.”</i>"
 msgstr ""
 "... epistulam maculosam in poste fixam, in qua scribitur, <i>“Baldras, "
-"superbus fuisset. Pro virili parti pugnavimus, sed non satis fuit.”</i>" 
+"superbus fuisset. Pro virili parti pugnavimus, sed non satis fuit.”</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:40
@@ -2383,7 +2383,7 @@ msgid ""
 "just keep going. See you in the Three Sisters, old friend. ― Relana”</i>"
 msgstr ""
 "<i>“Si nos invenire vis, i ad boream et occidentem. Cum litus attingis, "
-"perge. Sodalis, nos in Tribus Sororibus exspectamus. ― Relana”</i>" 
+"perge. Sodalis, nos in Tribus Sororibus exspectamus. ― Relana”</i>"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Liberty/units/Bone_Knight.cfg:5
