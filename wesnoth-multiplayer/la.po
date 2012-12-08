@@ -762,8 +762,8 @@ msgid ""
 "right."
 msgstr ""
 "Augurium Obscurum scaenarium supervivendum uni aut dorum lusorum est, in quo "
-"cum actoribus IA forte creati pugnas. Supervivendo et omnibus aestibus hostis "
-"superando vicis. Dum ludis terra ob numen Iovis mutabit.\n"
+"cum actoribus IA forte creati pugnas. Supervivendo et omnibus aestibus "
+"hostis superando vicis. Dum ludis terra ob numen Iovis mutabit.\n"
 "\n"
 "Nota bene: Necesse est electionibus naturalibus chartae uti."
 
@@ -846,8 +846,7 @@ msgstr "Mors amborum ducum manus"
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1391
 msgid ""
 "Since your team has two leaders, the enemy waves will be at full strength."
-msgstr ""
-"Cum duo duces manui sint, impetus hostis pro virili parte pugnabunt."
+msgstr "Cum duo duces manui sint, impetus hostis pro virili parte pugnabunt."
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1412
